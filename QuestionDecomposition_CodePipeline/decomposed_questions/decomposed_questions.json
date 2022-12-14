@@ -1,0 +1,3146 @@
+{
+    "7f9cd61fc4264c9bb81cdcfd2c5c4c38": {
+        "original_question": "what was the total amount of amount in 2007 for financial services businesses ? (in million)",
+        "decomposed_questions": [
+            "what was the total amount of amount in 2007 for financial services businesses ? (in million)"
+        ]
+    },
+    "b7642f569ac54d28af0a4a16683d3f35": {
+        "original_question": "does the average value of power purchase agreements in entergy arkansas greater than that in entergy louisiana?",
+        "decomposed_questions": [
+            "the average value of power purchase agreements in entergy arkansas",
+            "does [ANSWER] greater than that in entergy louisiana?"
+        ]
+    },
+    "5cc19228085048228131f5d77196655d": {
+        "original_question": "what is the ratio of securities to the total for net realized losses reclassified into earnings in 2008?",
+        "decomposed_questions": [
+            "securities to the total for net realized losses",
+            "what is the ratio of [ANSWER] reclassified into earnings in 2008?"
+        ]
+    },
+    "1ca146715d8b4ed9a102b68af5bdd385": {
+        "original_question": "how many below investment grade exceed the average of below investment grade in 2004?",
+        "decomposed_questions": [
+            "grade exceed which average of below investment grade",
+            "how many below investment [ANSWER] in 2004?"
+        ]
+    },
+    "b6e47615b28841deaacce680de41c65c": {
+        "original_question": "what's the difference of securities america, inc.-3(4) between 2010 and 2009 foractual capital? (in million)",
+        "decomposed_questions": [
+            "what's the difference of securities america, inc.-3(4) between 2010 and 2009 foractual capital? (in million)"
+        ]
+    },
+    "9b1a8a210c654f1aada293d3ea35429e": {
+        "original_question": "what is the ratio of total cards-in-force in table 1 to the other in table 0 in 2016?",
+        "decomposed_questions": [
+            "what is the ratio of total cards-in-force in table 1 to the other in table 0 in 2016?"
+        ]
+    },
+    "6a6d7accb802496fa8e7ed474f117d38": {
+        "original_question": "in the year / section with largest amount of average contract revenue per mwh, what's the sum of planned net mw in operation?",
+        "decomposed_questions": [
+            "in the year / section with largest amount of average contract revenue per mwh, what's the sum of planned net mw in operation?"
+        ]
+    },
+    "0fc058f14a954e6eb3d22d45a76ef981": {
+        "original_question": "what was the total amount of allowance greater than 270 in 2018? (in million)",
+        "decomposed_questions": [
+            "what was the total amount of allowance greater than 270 in 2018? (in million)"
+        ]
+    },
+    "404ce5c5eb06402d8172096ca3cd0bd1": {
+        "original_question": "what is the sum of the cost of sales in the years where net sales is greater than 1000? (in million)",
+        "decomposed_questions": [
+            "which years where net sales is greater than 1000? (in million)",
+            "what is the sum of the cost of sales in [ANSWER]"
+        ]
+    },
+    "bbcbe3ddf43449a08763a2f7d7986260": {
+        "original_question": "what is the sum amount of capital lease obligations in the years with the lowest amount of operating lease obligations? (in dollars in millions)",
+        "decomposed_questions": [
+            "the lowest amount of operating lease obligations? (in dollars in millions)",
+            "what is the sum amount of capital lease obligations in the years with [ANSWER]"
+        ]
+    },
+    "071e671820fa4f89b003923a38b03741": {
+        "original_question": "what was the percentage change in the allowance for loan losses from 2008 to 2009?",
+        "decomposed_questions": [
+            "what was the percentage change in the allowance for loan losses from 2008 to 2009?"
+        ]
+    },
+    "f1b58737e9a34f60b4882c8b7226395e": {
+        "original_question": "what do all collateralized financings sum up in 2018 , excluding repurchase agreements and securities loaned? (in million)",
+        "decomposed_questions": [
+            "what do all collateralized financings sum up in 2018 , excluding repurchase agreements and securities loaned? (in million)"
+        ]
+    },
+    "b86d620b573c45ffae2f15fb5a02e688": {
+        "original_question": "in the year with the most other revenues , what is the growth rate of general and administrative expense? (in million)",
+        "decomposed_questions": [
+            "in the year with the most other revenues , what is the growth rate of general and administrative expense? (in million)"
+        ]
+    },
+    "11904e0323e04189a6d0c03ebec8c27f": {
+        "original_question": "what was the average of the total operating revenues in the year where other investment income/(losses) is positive? (in million)",
+        "decomposed_questions": [
+            "which year where other investment income/(losses) is positive? (in million)",
+            "what was the average of the total operating revenues in [ANSWER]"
+        ]
+    },
+    "ae2ce9e907114dd786d4a02437917f15": {
+        "original_question": "what is the sum of securities loaned in 2017 and aggregate contractual principal in excess of fair value in 2015? (in million)",
+        "decomposed_questions": [
+            "what is the sum of securities loaned in 2017 and aggregate contractual principal in excess of fair value in 2015? (in million)"
+        ]
+    },
+    "930465d2a8a14fbc9c3de57267a5f067": {
+        "original_question": "what is the average increasing rate of purchased power between 2017 and 2018? (in million)",
+        "decomposed_questions": [
+            "purchased power between 2017 and 2018? (in million)",
+            "what is the average increasing rate of [ANSWER]"
+        ]
+    },
+    "8caf20e28a314f43a0bc3fdbadcc2220": {
+        "original_question": "what is the growing rate of benefit obligation at end of year for con edison in the year with the least benefit obligation at beginning of year for con edison?",
+        "decomposed_questions": [
+            "which year with the least benefit obligation at beginning of year",
+            "what is the growing rate of benefit obligation at end of year for con edison in [ANSWER] for con edison?"
+        ]
+    },
+    "fff103e8f5af48789d84ee47bb78e5bd": {
+        "original_question": "which element exceeds 30 % of total for total transaction and integration charges in 2010?",
+        "decomposed_questions": [
+            "which element exceeds 30 % of total for total transaction and integration charges in 2010?"
+        ]
+    },
+    "70ee07d30a8b46e195c791b6d69b9534": {
+        "original_question": "what's the total amount of the net income for amount in the years where operating activities for total cash provided by (used in) is greater than 1760? (in million)",
+        "decomposed_questions": [
+            "the net income for amount in which years where operating activities for total cash provided by",
+            "what's the total amount of [ANSWER] (used in) is greater than 1760? (in million)"
+        ]
+    },
+    "6cd056489ef745088e88f09c847c8ad9": {
+        "original_question": "as of december 31 , 2017 , what was the percent of the 2016 program remaining available for purchase",
+        "decomposed_questions": [
+            "which 2016 program remaining available for purchase",
+            "as of december 31 , 2017 , what was the percent of [ANSWER]"
+        ]
+    },
+    "e258d39d9df44652a28ca25d0304b0ed": {
+        "original_question": "in the year with the most total fixed rate debt, what is the amount of variable rate debt and total?",
+        "decomposed_questions": [
+            "in the year with the most total fixed rate debt, what is the amount of variable rate debt and total?"
+        ]
+    },
+    "d126a1c3049746bba48ef34ad2dd159f": {
+        "original_question": "what is the proportion of land and land development for nonperforming loans andforeclosed properties-1 to the total in 2011?",
+        "decomposed_questions": [
+            "what is the proportion of land and land development for nonperforming loans andforeclosed properties-1 to the total in 2011?"
+        ]
+    },
+    "838d349beccf4e2ebb0c04f518fa07e4": {
+        "original_question": "what's the sum of the net investment income in the years where other income is positive? (in million)",
+        "decomposed_questions": [
+            "what's the sum of the net investment income in the years where other income is positive? (in million)"
+        ]
+    },
+    "b52ac057503f483ca5e6a9c4bbef9367": {
+        "original_question": "what is the sum of cet1 capital, tier 1 capital and total capital in 2017? (in million)",
+        "decomposed_questions": [
+            "what is the sum of cet1 capital, tier 1 capital and total capital in 2017? (in million)"
+        ]
+    },
+    "22c216d2b29747adaf2c1f8ef4f954fa": {
+        "original_question": "what's the sum of the unit redemptions in the years where mortgages payable for carrying amounts is positive?",
+        "decomposed_questions": [
+            "the unit redemptions in which years where mortgages payable for carrying amounts",
+            "what's the sum of [ANSWER] is positive?"
+        ]
+    },
+    "326f465758bf44c08bd21a20dfcf8e4f": {
+        "original_question": "in the section with the most liquid hydrocarbons(mmbbl), what is the growth rate of natural gas(bcf)?",
+        "decomposed_questions": [
+            "in the section with the most liquid hydrocarbons(mmbbl), what is the growth rate of natural gas(bcf)?"
+        ]
+    },
+    "6d801833356a474da63c75fadbebe5e1": {
+        "original_question": "by what percentage did the aeco natural gas sales index decline from 2011 to 2013?",
+        "decomposed_questions": [
+            "the aeco natural gas sales index decline",
+            "by what percentage did [ANSWER] from 2011 to 2013?"
+        ]
+    },
+    "ea614135f42b43ba895af2adb0ce41b2": {
+        "original_question": "what is the ratio of all amount that are smaller than 100 to the sum of amount, in 2008? (in %)",
+        "decomposed_questions": [
+            "what is the ratio of all amount that are smaller than 100 to the sum of amount, in 2008? (in %)"
+        ]
+    },
+    "5184b91a27db463ca9fdd9e36ce05dbc": {
+        "original_question": "as as the chart 2 shows, what is the weighted average exercise price for balance at december 31, 2005 ?",
+        "decomposed_questions": [
+            "as as the chart 2 shows, what is the weighted average exercise price for balance at december 31, 2005 ?"
+        ]
+    },
+    "a3c210e328d0459c833cb290fecd2e6f": {
+        "original_question": "what is the average amount of case reserves of 2008 net, and exercise of stock options of 2008 ?",
+        "decomposed_questions": [
+            "what is the average amount of case reserves of 2008 net, and exercise of stock options of 2008 ?"
+        ]
+    },
+    "79f048cece8d4c1bbdbb6776c16d8bcd": {
+        "original_question": "in the year with lowest amount of distribution fees, what's the increasing rate of net investment income? (in %)",
+        "decomposed_questions": [
+            "in the year with lowest amount of distribution fees, what's the increasing rate of net investment income? (in %)"
+        ]
+    },
+    "bc2b34a04ec546ca961c819c6af00f9f": {
+        "original_question": "what was the percent of the decline in the gross unrecognized tax benefits from 2009 to 2010",
+        "decomposed_questions": [
+            "what was the percent of the decline in the gross unrecognized tax benefits from 2009 to 2010"
+        ]
+    },
+    "4713d1ad643d4d5d89bc29af120627e3": {
+        "original_question": "does the average value of total revenues in united state greater than that in europe (a)?",
+        "decomposed_questions": [
+            "revenues in united state greater than that in europe",
+            "does the average value of total [ANSWER] (a)?"
+        ]
+    },
+    "6e69e996da0a482b87e237352da9369b": {
+        "original_question": "what is the sum of investment real estate in 2012 and gain (loss) recognized in oci on derivatives in 2011? (in million)",
+        "decomposed_questions": [
+            "which sum of investment real estate in 2012 and gain (loss) recognized in oci on derivatives",
+            "what is [ANSWER] in 2011? (in million)"
+        ]
+    },
+    "73ff3a747e0043daadfb2671f2c66c46": {
+        "original_question": "what was the total amount of elements for revpar excluding those elements greater than 150 in 2016 ?",
+        "decomposed_questions": [
+            "those elements greater than 150 in 2016",
+            "what was the total amount of elements for revpar excluding [ANSWER] ?"
+        ]
+    },
+    "262b0c02534d4ff38d23179afc50bfc8": {
+        "original_question": "is the total amount of all elements in 2014 greater than that in 2013 for change in projected benefit obligation for con edison?",
+        "decomposed_questions": [
+            "the total amount of all elements in 2014 greater than that in 2013",
+            "is [ANSWER] for change in projected benefit obligation for con edison?"
+        ]
+    },
+    "d4ebcb6dcc134bbbba5c8d4b41927cd8": {
+        "original_question": "which revenues and other income occupies the greatest proportion in total amount in 2007?",
+        "decomposed_questions": [
+            "the greatest proportion in total amount in",
+            "which revenues and other income occupies [ANSWER] 2007?"
+        ]
+    },
+    "1cdc15feac50418a8957fe0cf1e27239": {
+        "original_question": "what was the total amount of volume \u2013 units excluding those volume \u2013 units greater than 1000 inemea latin america",
+        "decomposed_questions": [
+            "those volume \u2013 units greater than 1000",
+            "what was the total amount of volume \u2013 units excluding [ANSWER] inemea latin america"
+        ]
+    },
+    "3c98c73587f540b5bedea0d95d601f9a": {
+        "original_question": "which year is residential mortgage for recoveries of loans and leases previously charged off the most?",
+        "decomposed_questions": [
+            "residential mortgage for recoveries of loans and leases",
+            "which year is [ANSWER] previously charged off the most?"
+        ]
+    },
+    "2c5ade1a88b84b07b6e534a544862161": {
+        "original_question": "does the average value of loans and leases in 2014 greater than that in 2013",
+        "decomposed_questions": [
+            "does the average value of loans and leases in 2014 greater than that in 2013"
+        ]
+    },
+    "7e3a727754b54347bba6852c2a1ab139": {
+        "original_question": "does the average value of as of january 1 in number of awards greater than that in weighted average grant date fair value?",
+        "decomposed_questions": [
+            "awards greater than that in weighted average grant date",
+            "does the average value of as of january 1 in number of [ANSWER] fair value?"
+        ]
+    },
+    "9d87841440214b4f8148479290726479": {
+        "original_question": "what's the sum of client deposits of average balance year ended december 31, 2013, and u.s. of as of december 31, 2012 ?",
+        "decomposed_questions": [
+            "what's the sum of client deposits of average balance year ended december 31, 2013, and u.s. of as of december 31, 2012 ?"
+        ]
+    },
+    "f323004ecbe24a30a4bd8019fef84725": {
+        "original_question": "what is the percentage change in rent expense for operating leases from 2001 to 2002?",
+        "decomposed_questions": [
+            "what is the percentage change in rent expense for operating leases from 2001 to 2002?"
+        ]
+    },
+    "776342a2d8c1492286eedc213289f373": {
+        "original_question": "in the year with the most granted for shares(in thousands), what is the growth rate of outstanding ? (in %)",
+        "decomposed_questions": [
+            "in the year with the most granted for shares(in thousands), what is the growth rate of outstanding ? (in %)"
+        ]
+    },
+    "dd1d1e44f41f4a559afbdc851588faac": {
+        "original_question": "in the year with lowest amount of total marketing, promotion, rewards and card member services and other, what's the increasing rate of card member rewards in 2014?",
+        "decomposed_questions": [
+            "which year with lowest amount of total marketing, promotion, rewards and card member services",
+            "in [ANSWER] and other, what's the increasing rate of card member rewards in 2014?"
+        ]
+    },
+    "d751c2bec32541829329649b1f5abcbc": {
+        "original_question": "what was the total amount of ups contributions and accruals in the range of 100 and 1000 in 2013? (in million)",
+        "decomposed_questions": [
+            "what was the total amount of ups contributions and accruals in the range of 100 and 1000 in 2013? (in million)"
+        ]
+    },
+    "c67c1da6d6dd486e8710097177b62641": {
+        "original_question": "what is the sum of the general, administrative and other expenses in the years where production expenses, including related taxes is greater than 100? (in million)",
+        "decomposed_questions": [
+            "the general, administrative and other expenses in which years where production expenses, including related taxes",
+            "what is the sum of [ANSWER] is greater than 100? (in million)"
+        ]
+    },
+    "fac974bd07334037b2da805e46c65662": {
+        "original_question": "what will interest income reach in 2008 if it continues to grow at its current rate?",
+        "decomposed_questions": [
+            "what will interest income reach in 2008 if it continues to grow at its current rate?"
+        ]
+    },
+    "71c52a7bfd964525bc87137f0ac6df84": {
+        "original_question": "if total operating revenues develops with the same increasing rate in 2011, what will it reach in 2012? (in million)",
+        "decomposed_questions": [
+            "if total operating revenues develops with which same increasing rate",
+            "[ANSWER] in 2011, what will it reach in 2012? (in million)"
+        ]
+    },
+    "a4668c6539314836b30ca5544335425c": {
+        "original_question": "what is the sum of revenues in 2008 on september 30 ? (in thousand)",
+        "decomposed_questions": [
+            "what is the sum of revenues in 2008 on september 30 ? (in thousand)"
+        ]
+    },
+    "9819c81ad06b4d2b995c90e8ba2a657c": {
+        "original_question": "in the year with largest amount of office net charge-offs in table 3, what's the increasing rate of office net charge-offs in table 3?",
+        "decomposed_questions": [
+            "which year with largest amount of office net charge-offs",
+            "in [ANSWER] in table 3, what's the increasing rate of office net charge-offs in table 3?"
+        ]
+    },
+    "b6619e29a15747b3bd31840ce69ed470": {
+        "original_question": "what's the sum of unvested at december 31, 2018 of shares, and adjusted balance, beginning of period of benefit plans ?",
+        "decomposed_questions": [
+            "what's the sum of unvested at december 31, 2018 of shares, and adjusted balance, beginning of period of benefit plans ?"
+        ]
+    },
+    "dcbf50822c884611aafdae61e7a73deb": {
+        "original_question": "what is the total value of operating income, other investment income/(losses), equity in earnings of unconsolidated affiliates and interest and dividend income for before consolidation ? (in million)",
+        "decomposed_questions": [
+            "operating income, other investment income/(losses), equity in earnings of unconsolidated affiliates and interest and dividend income for before consolidation",
+            "what is the total value of [ANSWER] ? (in million)"
+        ]
+    },
+    "2d81eb2da6ac4cb1bf99847dd9e51398": {
+        "original_question": "what is the percentage of consumer in relation to the total in 2008 ? (in %)",
+        "decomposed_questions": [
+            "consumer in relation to the total in 2008",
+            "what is the percentage of [ANSWER] ? (in %)"
+        ]
+    },
+    "56b0aabd1b90483091414bcf1ba4799c": {
+        "original_question": "what's the average of the fuel for amount in the years where wheelabrator is positive?",
+        "decomposed_questions": [
+            "which fuel for amount in the years where wheelabrator",
+            "what's the average of [ANSWER] is positive?"
+        ]
+    },
+    "e0e90707f7924be3b0b34eec8fbee156": {
+        "original_question": "between 2010 and 2009, which year has the fastest increasing rate of net interest income?",
+        "decomposed_questions": [
+            "the fastest increasing rate of net interest income?",
+            "between 2010 and 2009, which year has [ANSWER]"
+        ]
+    },
+    "2f2c276baba448e3a6438730179373e8": {
+        "original_question": "what was the total amount of the additions to customer relationship and acquisition costs in the sections where cash flows from operating activities greater than 0?",
+        "decomposed_questions": [
+            "the sections where cash flows from operating activities",
+            "what was the total amount of the additions to customer relationship and acquisition costs in [ANSWER] greater than 0?"
+        ]
+    },
+    "34469a149d714acc9331fa4e7be2d59b": {
+        "original_question": "what will net revenues reach in 2009 if it continues to grow at its current rate? (in thousands)",
+        "decomposed_questions": [
+            "what will net revenues reach in 2009 if it continues to grow at its current rate? (in thousands)"
+        ]
+    },
+    "59845941ae364821b52c46fb937647a8": {
+        "original_question": "what is the percentage increase from 2008 customer satisfaction index to the 2010 customer satisfaction index?",
+        "decomposed_questions": [
+            "what is the percentage increase from 2008 customer satisfaction index to the 2010 customer satisfaction index?"
+        ]
+    },
+    "9affde6170bc49b59283cebb8d92396d": {
+        "original_question": "what is the total value of rsus converted to bhge rsus , in millions?",
+        "decomposed_questions": [
+            "what is the total value of rsus converted to bhge rsus , in millions?"
+        ]
+    },
+    "c34c4c4e147b462181511a85ac5c5cdb": {
+        "original_question": "what is the column number of the section where the balance, january 1, 2007 is negative?",
+        "decomposed_questions": [
+            "which section where the balance, january 1, 2007",
+            "what is the column number of [ANSWER] is negative?"
+        ]
+    },
+    "77a0b4dbe903419399b79b1e026f1fae": {
+        "original_question": "what is the mathematical range for average train speed ( mph ) for 2008-2010?",
+        "decomposed_questions": [
+            "what is the mathematical range for average train speed ( mph ) for 2008-2010?"
+        ]
+    },
+    "2c9988d9cd9846a79794a25e40dbe960": {
+        "original_question": "what do all elements sum up in 2012 , excluding gross profit and operating expenses? (in million)",
+        "decomposed_questions": [
+            "what do all elements sum up in 2012 , excluding gross profit and operating expenses? (in million)"
+        ]
+    },
+    "4d14f26815694ea09a401821aea143f8": {
+        "original_question": "for the terrestar acquisition what will the final cash purchase price be in millions paid upon closing?",
+        "decomposed_questions": [
+            "for the terrestar acquisition what will the final cash purchase price be in millions paid upon closing?"
+        ]
+    },
+    "932ff37622cd4055a93d88099215ef4c": {
+        "original_question": "what's the average of the attritional for current year in the years where international is positive? (in million)",
+        "decomposed_questions": [
+            "what's the average of the attritional for current year in the years where international is positive? (in million)"
+        ]
+    },
+    "8164e53a6a3544879f446960c20f8b50": {
+        "original_question": "what is the growing rate of earnings (loss) before taxes in total in the years with the least federal/foreign in total?",
+        "decomposed_questions": [
+            "what is the growing rate of earnings (loss) before taxes in total in the years with the least federal/foreign in total?"
+        ]
+    },
+    "7daa6444798141cb8faaa03cf8013a6d": {
+        "original_question": "what is the growing rate of active and other in the years with the least company stock/esop?",
+        "decomposed_questions": [
+            "what is the growing rate of active and other in the years with the least company stock/esop?"
+        ]
+    },
+    "c232f76381384df1b64155322f23f235": {
+        "original_question": "what's the total amount of u.s. large cap stocks , u.s. small cap stocks, non-u.s. large cap stocks and non-u.s. small cap stocks in 2013? (in million)",
+        "decomposed_questions": [
+            "what's the total amount of u.s. large cap stocks , u.s. small cap stocks, non-u.s. large cap stocks and non-u.s. small cap stocks in 2013? (in million)"
+        ]
+    },
+    "503b7ee5d62c4801a7e70ad563f78455": {
+        "original_question": "which element makes up more than 20 % of the total for carrying amount of total in 2009?",
+        "decomposed_questions": [
+            "the total for carrying amount of total",
+            "which element makes up more than 20 % of [ANSWER] in 2009?"
+        ]
+    },
+    "2732488535454a20a90f00d9186ca826": {
+        "original_question": "what's the total amount of theu.s. dollars sold for pounds sterling in the years where u.s. dollars sold for pounds sterling is greater than 1?",
+        "decomposed_questions": [
+            "which years where u.s. dollars sold for pounds sterling",
+            "what's the total amount of theu.s. dollars sold for pounds sterling in [ANSWER] is greater than 1?"
+        ]
+    },
+    "3fb5f7a678aa4f829ef1e40f0e635d94": {
+        "original_question": "the total amount of which section ranks first for derivative liabilities -2? (in million)",
+        "decomposed_questions": [
+            "the total amount of which section ranks first for derivative liabilities -2? (in million)"
+        ]
+    },
+    "050d4093d3ab4e05950a488b89d2e0a3": {
+        "original_question": "what was the ratio of the decreases in the net sales to the operating profit for mst from 2010 to 2011",
+        "decomposed_questions": [
+            "what was the ratio of the decreases in the net sales to the operating profit for mst from 2010 to 2011"
+        ]
+    },
+    "b3b8511d602d4391861860fea6102e16": {
+        "original_question": "what percentage of the net inflows primarily from institutional investors was due to the transfer from retirement funds to target-date trusts?",
+        "decomposed_questions": [
+            "the net inflows primarily from institutional investors",
+            "what percentage of [ANSWER] was due to the transfer from retirement funds to target-date trusts?"
+        ]
+    },
+    "f1ff473d7dd8487297aad99094a9e089": {
+        "original_question": "what's the average of the avalon terrace, llc in the years where town run associates is positive?",
+        "decomposed_questions": [
+            "which avalon terrace, llc in the years where town run associates",
+            "what's the average of [ANSWER] is positive?"
+        ]
+    },
+    "01f45f4d3645476d8e6ba16beab0ff28": {
+        "original_question": "what do all benefits earned during the year sum up, excluding those negative ones in 2010 for pension plans ? (in million)",
+        "decomposed_questions": [
+            "the year sum up, excluding those negative ones in 2010 for pension plans",
+            "what do all benefits earned during [ANSWER] ? (in million)"
+        ]
+    },
+    "ecb0ffe2943d443a8ddf6357ba408887": {
+        "original_question": "in the year with lowest amount of catastrophes for prior years, what's the increasing rate of attritional for total incurred?",
+        "decomposed_questions": [
+            "in the year with lowest amount of catastrophes for prior years, what's the increasing rate of attritional for total incurred?"
+        ]
+    },
+    "92c854f5e21144a6930f3a0e28bbd6b3": {
+        "original_question": "what is the basic net income ( loss ) attributable to common shareholders as a percentage of diluted net income ( loss ) attributable to common shareholders in 2008?",
+        "decomposed_questions": [
+            "what is the basic net income ( loss ) attributable to common shareholders as a percentage of diluted net income ( loss ) attributable to common shareholders in 2008?"
+        ]
+    },
+    "522ad37e12fc4635b985f4e260f11292": {
+        "original_question": "what was the sum of u.s. without those u.s. smaller than 15 in 2018 for pension benefits? (in million)",
+        "decomposed_questions": [
+            "which sum of u.s. without those u.s.",
+            "what was [ANSWER] smaller than 15 in 2018 for pension benefits? (in million)"
+        ]
+    },
+    "ca732ebddc9b432584f0e55e3ad81c43": {
+        "original_question": "what is the sum of the time deposits in the years where taxable greater than 0 ? (in thousand)",
+        "decomposed_questions": [
+            "the time deposits in which years where taxable greater than 0",
+            "what is the sum of [ANSWER] ? (in thousand)"
+        ]
+    },
+    "67115ba1c5db4c8fa4b7aaa8865821cb": {
+        "original_question": "the specific reserves in the alll as of december 31 , 2012 were what percent of the tdr portfolio?",
+        "decomposed_questions": [
+            "which specific reserves in the alll as of december 31 , 2012",
+            "[ANSWER] were what percent of the tdr portfolio?"
+        ]
+    },
+    "6109ceda9fe94903b3f60c9d6c2493d0": {
+        "original_question": "in the year with largest amount of u.s. government and agency obligations, what's the sum of qualified plans for u.s. plans for pension plans? (in million)",
+        "decomposed_questions": [
+            "in the year with largest amount of u.s. government and agency obligations, what's the sum of qualified plans for u.s. plans for pension plans? (in million)"
+        ]
+    },
+    "1f70539b80bb4faa80fa3c34321cf587": {
+        "original_question": "what is the sum of the case reserves in the years in gross where case reserves is positive? (in million)",
+        "decomposed_questions": [
+            "which years in gross where case reserves is positive? (in million)",
+            "what is the sum of the case reserves in [ANSWER]"
+        ]
+    },
+    "c75026c3a87e47d9ae8b7cf4734fa6f0": {
+        "original_question": "what's the sum of share repurchase program in the range of 1000000 and 2000000 in october, 2013?",
+        "decomposed_questions": [
+            "what's the sum of share repurchase program in the range of 1000000 and 2000000 in october, 2013?"
+        ]
+    },
+    "9085736d9c4f4e29bb4a00627cb202b8": {
+        "original_question": "as as the chart 2 shows,the weighted average exercise price for balance on december 31 in which year ranks first?",
+        "decomposed_questions": [
+            "as as the chart 2 shows,the weighted average exercise price for balance on december 31 in which year ranks first?"
+        ]
+    },
+    "5816fd1ebeec40cdaefd69f014989030": {
+        "original_question": "from 2014 to 2016 , what was the total amount of money they can deduct from their future income tax due to amortization?",
+        "decomposed_questions": [
+            "which total amount of money they can deduct",
+            "from 2014 to 2016 , what was [ANSWER] from their future income tax due to amortization?"
+        ]
+    },
+    "a30ce223f1284840aa964824e6eacf40": {
+        "original_question": "what was the average amount of total stock-based compensation for three months ended dec 31,2009,three months ended mar 31,2010,three months ended jun 30,2010? (in thousand)",
+        "decomposed_questions": [
+            "what was the average amount of total stock-based compensation for three months ended dec 31,2009,three months ended mar 31,2010,three months ended jun 30,2010? (in thousand)"
+        ]
+    },
+    "c7375fbb41204cff8658329db920617f": {
+        "original_question": "what's the greatest value of premiums earned for twelve months ended december 31, 2015",
+        "decomposed_questions": [
+            "what's the greatest value of premiums earned for twelve months ended december 31, 2015"
+        ]
+    },
+    "49c5d9e1753d4fbfac6bdca9668dba0e": {
+        "original_question": "as as the chart 3 shows,what's the growth rate of the value of total revenues for regulated natural gas in 2008?",
+        "decomposed_questions": [
+            "as as the chart 3 shows,what's the growth rate of the value of total revenues for regulated natural gas in 2008?"
+        ]
+    },
+    "9b6351480ef94f45b108eb76625bd4ce": {
+        "original_question": "in the year with the most alm strategy only, what is the growth rate of pdi?",
+        "decomposed_questions": [
+            "which year with the most alm strategy",
+            "in [ANSWER] only, what is the growth rate of pdi?"
+        ]
+    },
+    "124d77591f404f3d989d7383de9b71a3": {
+        "original_question": "what was the value in millions of non cash assets for the transaction in which opcity was acquired?",
+        "decomposed_questions": [
+            "what was the value in millions of non cash assets for the transaction in which opcity was acquired?"
+        ]
+    },
+    "cbed5c3e2c48458ebd38f1889104fc24": {
+        "original_question": "in the section with lowest amount of sales, what's the increasing rate of fair value ? (in %)",
+        "decomposed_questions": [
+            "in the section with lowest amount of sales, what's the increasing rate of fair value ? (in %)"
+        ]
+    },
+    "a902e58cd36f48439b9019783af485b9": {
+        "original_question": "what's the total amount of the gas utility operations in the years where lectric utility operations is greater than 1?",
+        "decomposed_questions": [
+            "the gas utility operations in which years where lectric utility operations",
+            "what's the total amount of [ANSWER] is greater than 1?"
+        ]
+    },
+    "097b805f848244a39865b4ceba0dd30a": {
+        "original_question": "if china develops with the same growth rate in 2013, what will it reach in 2014? (in million)",
+        "decomposed_questions": [
+            "if china develops with which same growth rate",
+            "[ANSWER] in 2013, what will it reach in 2014? (in million)"
+        ]
+    },
+    "13d9a08104bb44079160b861454d0f02": {
+        "original_question": "what's the total amount of the high of market price range in the years where market value at year-end greater than 9? (in million)",
+        "decomposed_questions": [
+            "the high of market price range in which years where market value at year-end",
+            "what's the total amount of [ANSWER] greater than 9? (in million)"
+        ]
+    },
+    "acdceac1302e49909bde9c2669d38ffe": {
+        "original_question": "what is the total cash inflow from the stock purchases of employees in 2007 , ( in millions ) ?",
+        "decomposed_questions": [
+            "which stock purchases of employees in 2007 , ( in millions )",
+            "what is the total cash inflow from [ANSWER] ?"
+        ]
+    },
+    "640e82867b5c4c939cb8f6c6218251c1": {
+        "original_question": "what is the growing rate of net interest income in the years with the least total revenue, net of interest expense?",
+        "decomposed_questions": [
+            "what is the growing rate of net interest income in the years with the least total revenue, net of interest expense?"
+        ]
+    },
+    "75ba2fe7b9c7417db04c92e4310f8bfd": {
+        "original_question": "what do all net income (loss) attributable to noncontrolling interests sum up, excluding those negative ones in 2010 ? (in million)",
+        "decomposed_questions": [
+            "net income (loss) attributable to noncontrolling interests sum up, excluding those negative ones in 2010",
+            "what do all [ANSWER] ? (in million)"
+        ]
+    },
+    "dc536d25ba2b4cb1b728663a1a0aa261": {
+        "original_question": "considering the years 2015-2016 , what was the decrease observed in the expense for severance and other benefits?",
+        "decomposed_questions": [
+            "which decrease observed in the expense for severance",
+            "considering the years 2015-2016 , what was [ANSWER] and other benefits?"
+        ]
+    },
+    "6d6ac7f888864bb2b77dc05a91ac8246": {
+        "original_question": "for the quarter ended december 31 , 2018 what was the percent of shares withheld to provide funds for the payment of payroll and income taxes in december",
+        "decomposed_questions": [
+            "for the quarter ended december 31 , 2018 what was the percent of shares withheld to provide funds for the payment of payroll and income taxes in december"
+        ]
+    },
+    "025c990621644b9d997251f7c8b7c781": {
+        "original_question": "in 2009 what was the gross adjustment to the unrecognized tax benefits balance based on the federal and state settlements in millions",
+        "decomposed_questions": [
+            "which unrecognized tax benefits balance based on the federal and state settlements in millions",
+            "in 2009 what was the gross adjustment to [ANSWER]"
+        ]
+    },
+    "9cca630d78be40e183d893ddb40632c1": {
+        "original_question": "what is the percentage of all shares that are positive to the total amount, in 2017?",
+        "decomposed_questions": [
+            "what is the percentage of all shares that are positive to the total amount, in 2017?"
+        ]
+    },
+    "dcdd02ea33e744768a413fae0568f25a": {
+        "original_question": "what was the total amount of the adjusted profit in the years / sections where profit of profit before taxes is greater than 5000? (in million)",
+        "decomposed_questions": [
+            "which adjusted profit in the years / sections where profit of profit before taxes is greater than 5000? (in million)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "73e5a61285a24255bb9c67aa68f2a100": {
+        "original_question": "what percentage where north american consumer packaging net sales of total consumer packaging sales in 2012?",
+        "decomposed_questions": [
+            "consumer packaging net sales of total consumer packaging sales",
+            "what percentage where north american [ANSWER] in 2012?"
+        ]
+    },
+    "594683bc8a3a48429e372d673ac103a0": {
+        "original_question": "what's the total amount of the elements in the years where residential is greater than 20? (in (million)",
+        "decomposed_questions": [
+            "what's the total amount of the elements in the years where residential is greater than 20? (in (million)"
+        ]
+    },
+    "859ddaa4993048b1978ff5b0b6bf0a92": {
+        "original_question": "for december 31 , 2009 , what was the total value of segregated collateral for the benefit of brokerage customers in millions?",
+        "decomposed_questions": [
+            "of segregated collateral for the benefit of brokerage customers",
+            "for december 31 , 2009 , what was the total value [ANSWER] in millions?"
+        ]
+    },
+    "bc7ab313fc7c408f9ea580726e055d5f": {
+        "original_question": "what is the sum of balance at december 31, 2007-1 in 2007? (in million)",
+        "decomposed_questions": [
+            "what is the sum of balance at december 31, 2007-1 in 2007? (in million)"
+        ]
+    },
+    "d0951c1ba24048019fb1c0a154a67e59": {
+        "original_question": "how many kinds of gross are greater than 10 in for natural gas wells?",
+        "decomposed_questions": [
+            "how many kinds of gross are greater than 10 in for natural gas wells?"
+        ]
+    },
+    "1dea00fae2914d18ab8d38e36b5b83ac": {
+        "original_question": "in the year with lowest amount of interest in table 2, what's the increasing rate of operating leases in table 2?",
+        "decomposed_questions": [
+            "in the year with lowest amount of interest in table 2, what's the increasing rate of operating leases in table 2?"
+        ]
+    },
+    "c4c9ad2eb544455185a2c45da1ae21d4": {
+        "original_question": "what is the growing rate of canada-1 in the year with the most total calendar year effect ?",
+        "decomposed_questions": [
+            "which year with the most total calendar year effect",
+            "what is the growing rate of canada-1 in [ANSWER] ?"
+        ]
+    },
+    "24e748e56a014de2bb8ac126072f9d65": {
+        "original_question": "what percentage of citi's home equity portfolio as of december 31 , 2015 was comprised of fixed-rate home equity loans?",
+        "decomposed_questions": [
+            "citi's home equity portfolio as of december 31 , 2015",
+            "what percentage of [ANSWER] was comprised of fixed-rate home equity loans?"
+        ]
+    },
+    "9dde9f9b878b4ff29941c25dab13e836": {
+        "original_question": "what is the sum of investment income in the range of 100 and 1000 in 2014? (in million)",
+        "decomposed_questions": [
+            "what is the sum of investment income in the range of 100 and 1000 in 2014? (in million)"
+        ]
+    },
+    "90b9b7fdf3b24dafa2e56608af95ba9d": {
+        "original_question": "in the year with the most management and financial advice fees, what is the growth rate of management and financial advice fees?",
+        "decomposed_questions": [
+            "in the year with the most management and financial advice fees, what is the growth rate of management and financial advice fees?"
+        ]
+    },
+    "a5d4ca36f39045a58e272321703b2723": {
+        "original_question": "what was the average value of the cost of goods sold in the years where external net sales is positive?",
+        "decomposed_questions": [
+            "what was the average value of the cost of goods sold in the years where external net sales is positive?"
+        ]
+    },
+    "1d43af3556a141f19498859046f8a14f": {
+        "original_question": "how much is the total expenses for corporate benefit funding less than the 50% of the sum of all total expenses? (in million)",
+        "decomposed_questions": [
+            "how much is the total expenses for corporate benefit funding less than the 50% of the sum of all total expenses? (in million)"
+        ]
+    },
+    "90641e4d55e6402e819a770fa5a6d64c": {
+        "original_question": "how much of total minimum lease payments ( in millions ) are not due to assets under construction?",
+        "decomposed_questions": [
+            "of total minimum lease payments ( in millions",
+            "how much [ANSWER] ) are not due to assets under construction?"
+        ]
+    },
+    "9a6dae3bfb1641cfab08e3f6ed50f72a": {
+        "original_question": "in the section with largest amount of net cash provided by operating activities of continuing operations, what's the sum of proceeds from maturities of investments? (in million)",
+        "decomposed_questions": [
+            "in the section with largest amount of net cash provided by operating activities of continuing operations, what's the sum of proceeds from maturities of investments? (in million)"
+        ]
+    },
+    "60eb9b850df64568b4b02bd869fc2fa6": {
+        "original_question": "what's the total amount of debt maturities of thereafter, operating lease obligations of more than 5 years is, and total of thereafter ?",
+        "decomposed_questions": [
+            "debt maturities of thereafter, operating lease obligations of more than 5 years is, and total of thereafter",
+            "what's the total amount of [ANSWER] ?"
+        ]
+    },
+    "5b678058815c449cb33f4f23c49fbae7": {
+        "original_question": "as of dec 31 , 2015 , what percentage of total indebtedness was nonsecure?",
+        "decomposed_questions": [
+            "as of dec 31 , 2015 , what percentage of total indebtedness was nonsecure?"
+        ]
+    },
+    "886dc14c22274ea2b815f9078b4f4f3f": {
+        "original_question": "considering the year 2006 , what is the percentual fluctuation of the return provided by s&p 500 and the one provided by old peer group?",
+        "decomposed_questions": [
+            "considering the year 2006 , what is the percentual fluctuation of the return provided by s&p 500 and the one provided by old peer group?"
+        ]
+    },
+    "b80f0062d0f442d9bc6f2e8ad4f79854": {
+        "original_question": "what is the growing rate of other revenues in the year with the most transmission revenues?",
+        "decomposed_questions": [
+            "what is the growing rate of other revenues in the year with the most transmission revenues?"
+        ]
+    },
+    "ef72ff1aeae1447cb0edeb4c1af52f8c": {
+        "original_question": "what is the total amount amortized to revenue in the last three years , ( in millions ) ?",
+        "decomposed_questions": [
+            "revenue in the last three years , ( in millions )",
+            "what is the total amount amortized to [ANSWER] ?"
+        ]
+    },
+    "d7c3361d14aa4237ac2db380bd902f31": {
+        "original_question": "what is the amount of the positive term of the total mortgage and other loans receivable, net of allowance in 2016? (in dollars in millions)",
+        "decomposed_questions": [
+            "what is the amount of the positive term of the total mortgage and other loans receivable, net of allowance in 2016? (in dollars in millions)"
+        ]
+    },
+    "608a340e5f8042599964582e7da73ada": {
+        "original_question": "what was the percentage change in the allowance for loan losses from 2007 to 2008?",
+        "decomposed_questions": [
+            "which allowance for loan losses from 2007",
+            "what was the percentage change in [ANSWER] to 2008?"
+        ]
+    },
+    "04afd9b5c75143f8a4650abe46bb45e6": {
+        "original_question": "if investment bank for total develops with the same increasing rate in 2009, what will it reach in 2010? (in million)",
+        "decomposed_questions": [
+            "if investment bank for total develops with the same increasing rate",
+            "[ANSWER] in 2009, what will it reach in 2010? (in million)"
+        ]
+    },
+    "09c33aa904d54a6b8fcd3d232a88df1d": {
+        "original_question": "what is the row number of the section for which the fair value exceeds 30 % of total fair value in 2011?",
+        "decomposed_questions": [
+            "what is the row number of the section for which the fair value exceeds 30 % of total fair value in 2011?"
+        ]
+    },
+    "ada8e738988847ae98317bfc1985941c": {
+        "original_question": "what's the total amount of active, isharesetfs and non-etf index in 2016 in equity (in million)",
+        "decomposed_questions": [
+            "active, isharesetfs and non-etf index in 2016",
+            "what's the total amount of [ANSWER] in equity (in million)"
+        ]
+    },
+    "d60ad199f8ad47eaa33024fc316b3692": {
+        "original_question": "what will secured debt be like in 2007 ended december 31 if it develops with the same increasing rate as in 2006 ended december 31? (in thousand)",
+        "decomposed_questions": [
+            "secured debt be like in 2007 ended december 31 if it develops with the same increasing rate as in 2006",
+            "what will [ANSWER] ended december 31? (in thousand)"
+        ]
+    },
+    "6640770ae1a14d24a69ef7592d606bf1": {
+        "original_question": "what was the total amount of assets greater than 500000 in 2003? (in thousand)",
+        "decomposed_questions": [
+            "what was the total amount of assets greater than 500000 in 2003? (in thousand)"
+        ]
+    },
+    "cc33c2772622429db66921ae69468dd7": {
+        "original_question": "what is the ratio of attritional for current year to the total in 2013?",
+        "decomposed_questions": [
+            "the ratio of attritional for current year",
+            "what is [ANSWER] to the total in 2013?"
+        ]
+    },
+    "0207d7d304404d3c9748f1a2082cf43b": {
+        "original_question": "in the year with largest amount of product revenue, what's the sum of product revenue and service and other revenue ? (in million)",
+        "decomposed_questions": [
+            "in the year with largest amount of product revenue, what's the sum of product revenue and service and other revenue ? (in million)"
+        ]
+    },
+    "25fa7222665c4740ba34eaddf3769ff5": {
+        "original_question": "what is the amount of commercial and commercial realestate in the years with the least commercial for gross charge-offs ? (in million)",
+        "decomposed_questions": [
+            "what is the amount of commercial and commercial realestate in the years with the least commercial for gross charge-offs ? (in million)"
+        ]
+    },
+    "6f38c39fd06b4e5a826ffb6964fcb0b5": {
+        "original_question": "what's the total value of all value (in millions) that are in the range of 400 and 1000 in 2011? (in million)",
+        "decomposed_questions": [
+            "value (in millions) that are in the range of 400 and 1000",
+            "what's the total value of all [ANSWER] in 2011? (in million)"
+        ]
+    },
+    "63ff5f85cd184b55a8270dfd1d38eb1f": {
+        "original_question": "what was the average value of therisk-free interest rate in the years where expected volatility is positive?",
+        "decomposed_questions": [
+            "what was the average value of therisk-free interest rate in the years where expected volatility is positive?"
+        ]
+    },
+    "1a54a27c1c9540b5a5e498983e68848a": {
+        "original_question": "what was the average value of the total commercial in the years where total commercial real estateis positive?",
+        "decomposed_questions": [
+            "which total commercial in the years where total commercial real estateis",
+            "what was the average value of [ANSWER] positive?"
+        ]
+    },
+    "df0b8ef35cc24763a92df871c125cf80": {
+        "original_question": "what is the growing rate of total costs and expenses in the year with the most total revenue?",
+        "decomposed_questions": [
+            "what is the growing rate of total costs and expenses in the year with the most total revenue?"
+        ]
+    },
+    "2b833833372a42a9865bb9ab910d6b5c": {
+        "original_question": "in which years is other comprehensive income before reclassifications greater than net current-period other comprehensive income (for changes related to cash flow derivative hedges)?",
+        "decomposed_questions": [
+            "other comprehensive income before reclassifications greater than net",
+            "in which years is [ANSWER] current-period other comprehensive income (for changes related to cash flow derivative hedges)?"
+        ]
+    },
+    "a646ff0c9ea54baca465e8835b645c98": {
+        "original_question": "what is the percentage of all qualifying accounting hedges-2 that are positive to the total amount, in 2010 for gross derivative assets?",
+        "decomposed_questions": [
+            "accounting hedges-2 that are positive to the total amount, in 2010 for gross derivative",
+            "what is the percentage of all qualifying [ANSWER] assets?"
+        ]
+    },
+    "517a8af902ac443ea17b92bc9b316a78": {
+        "original_question": "in the year with largest amount of general and administrative expense, what's the increasing rate of total revenues?",
+        "decomposed_questions": [
+            "in the year with largest amount of general and administrative expense, what's the increasing rate of total revenues?"
+        ]
+    },
+    "3d1184520a9b4fda8d20bf7d14c8fd6a": {
+        "original_question": "which year is the amount of benefit obligation at year end for pension benefits larger?",
+        "decomposed_questions": [
+            "which year is the amount of benefit obligation at year end for pension benefits larger?"
+        ]
+    },
+    "89fbb8e974134821a850e9e1ad8f9f95": {
+        "original_question": "what's the total amount of the financial standby letters of credit in the years where benefit plans-3 is less than -6,250 (in million)",
+        "decomposed_questions": [
+            "the financial standby letters of credit in which years where benefit plans-3",
+            "what's the total amount of [ANSWER] is less than -6,250 (in million)"
+        ]
+    },
+    "a5ec5ca712704c88887435bb658f5c08": {
+        "original_question": "what is the total impairment charge recorded in the lat three years , in millions?",
+        "decomposed_questions": [
+            "which total impairment charge recorded in the lat",
+            "what is [ANSWER] three years , in millions?"
+        ]
+    },
+    "ae6d9aa990834a86ba5f55daecf02c59": {
+        "original_question": "what is the sum of value in the range of 400 and 1000 in 2011? (in million)",
+        "decomposed_questions": [
+            "value in the range of 400 and 1000",
+            "what is the sum of [ANSWER] in 2011? (in million)"
+        ]
+    },
+    "03ed84a7fd8643cfae9a243147488fa2": {
+        "original_question": "what was the total amount of the income from continuing operations in the years where income taxes is greater than 1000? (in million)",
+        "decomposed_questions": [
+            "which income from continuing operations in the years where income taxes is greater than 1000? (in million)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "487a7f637dfb4043b77ad60e7a14825d": {
+        "original_question": "what's the growth rate of payments due by period 2019 for long-term debt obligations?",
+        "decomposed_questions": [
+            "what's the growth rate of payments due by period 2019 for long-term debt obligations?"
+        ]
+    },
+    "f63d5259d48e4e298fdcaae5a6f52a37": {
+        "original_question": "what is the average amount of 2019 notes of 2013, and granted of number of shares ?",
+        "decomposed_questions": [
+            "what is the average amount of 2019 notes of 2013, and granted of number of shares ?"
+        ]
+    },
+    "908978c2c958420d94b2bb6125e91df1": {
+        "original_question": "as as the chart 0 shows,the value of the asset- backed securities at december 31,which year ranks first?",
+        "decomposed_questions": [
+            "as as the chart 0 shows,the value of which asset- backed securities",
+            "[ANSWER] at december 31,which year ranks first?"
+        ]
+    },
+    "26e10df117dc44f18c8240f92c8e416c": {
+        "original_question": "as as the chart 3 shows,which year is the value of total revenues for regulated natural gas the highest?",
+        "decomposed_questions": [
+            "as as the chart 3 shows,which year is the value of total revenues for regulated natural gas the highest?"
+        ]
+    },
+    "3a823bd715cb4099986c91a950d93e92": {
+        "original_question": "what is the annualized return for the investment in the allegion plc during 2013-2017?",
+        "decomposed_questions": [
+            "what is the annualized return for the investment in the allegion plc during 2013-2017?"
+        ]
+    },
+    "a5dab33c122b45ce952862ee566a5804": {
+        "original_question": "what is the sum of the portland, or in the sections where san francisco is positive? (in thousand)",
+        "decomposed_questions": [
+            "which sections where san francisco is positive? (in thousand)",
+            "what is the sum of the portland, or in [ANSWER]"
+        ]
+    },
+    "82dd8f4de6b34fe1848d2477760c921a": {
+        "original_question": "in the year with largest amount of payments, what's the increasing rate of marketplaces?",
+        "decomposed_questions": [
+            "in the year with largest amount of payments, what's the increasing rate of marketplaces?"
+        ]
+    },
+    "be38142aadde438c80d2ec09d5e37670": {
+        "original_question": "what was the total intrinsic value of options exercised during 2007 , 2006 and 2005 in millions?",
+        "decomposed_questions": [
+            "what was the total intrinsic value of options exercised during 2007 , 2006 and 2005 in millions?"
+        ]
+    },
+    "6be3dd53653e4fd69645e526de4308f0": {
+        "original_question": "what will pass-through securities be like in 2009 if it develops with the same increasing rate as current? (in million)",
+        "decomposed_questions": [
+            "what will pass-through securities be like in 2009 if it develops with the same increasing rate as current? (in million)"
+        ]
+    },
+    "238499a98441470b93f6c514b82d8f0f": {
+        "original_question": "what is the proportion of all unaffiliated customers that are greater than 2000 to the total amount of unaffiliated customers, in 2010? (in %)",
+        "decomposed_questions": [
+            "what is the proportion of all unaffiliated customers that are greater than 2000 to the total amount of unaffiliated customers, in 2010? (in %)"
+        ]
+    },
+    "dc97fa68b59b481db59f964ce1976a61": {
+        "original_question": "what's the total value of all elements that are in the range of 1000 and 3000 for fair of total?",
+        "decomposed_questions": [
+            "all elements that are in the range of 1000 and 3000",
+            "what's the total value of [ANSWER] for fair of total?"
+        ]
+    },
+    "0e5985d4af744d1286cb5197edc52493": {
+        "original_question": "does net earnings in as reported keeps increasing each year between 2013 and 2014 ?",
+        "decomposed_questions": [
+            "does net earnings in as reported keeps increasing each year between 2013 and 2014 ?"
+        ]
+    },
+    "4b5e46ddce39467a95f8db7b46fe3716": {
+        "original_question": "what was the total amount of square feet-1 /apartment units excluding those square feet-1 /apartment units greater than 100000 for square feet-1 /apartment units?",
+        "decomposed_questions": [
+            "the total amount of square feet-1 /apartment units excluding those square feet-1 /apartment units",
+            "what was [ANSWER] greater than 100000 for square feet-1 /apartment units?"
+        ]
+    },
+    "0565d8b781a14a29852db42ceaf3644e": {
+        "original_question": "what is the money pool activity use of operating cash flows as a percentage of receivables from the money pool in 2003?",
+        "decomposed_questions": [
+            "what is the money pool activity use of operating cash flows as a percentage of receivables from the money pool in 2003?"
+        ]
+    },
+    "0eb2d44eeb0141acadc3c0001578416a": {
+        "original_question": "what is the yearly interest income generated by the collateralized credit facility provided to the real estate company for the execution of its property acquisitions program , in million cad?",
+        "decomposed_questions": [
+            "which real estate company for the execution of its property acquisitions program",
+            "what is the yearly interest income generated by the collateralized credit facility provided to  [ANSWER]  in million cad?"
+        ]
+    },
+    "055fffc4283e42989add20ce83704361": {
+        "original_question": "in the years with lowest amount of operating lease obligations in table 1, what's the increasing rate of pension and other postretirement cash requirements in table 1?",
+        "decomposed_questions": [
+            "in the years with lowest amount of operating lease obligations in table 1, what's the increasing rate of pension and other postretirement cash requirements in table 1?"
+        ]
+    },
+    "b0eefa32764b42e387b0d1324395b022": {
+        "original_question": "the total amount of which section ranks first for years ended december 31, for credit loss impairments? (in million)",
+        "decomposed_questions": [
+            "section ranks first for years ended december 31, for credit loss",
+            "the total amount of which [ANSWER] impairments? (in million)"
+        ]
+    },
+    "9d208ade5ef94ee1b9725a6afe6a9c11": {
+        "original_question": "does interest-earning deposits with banks (a) keeps increasing each year between 2018 and 2017?",
+        "decomposed_questions": [
+            "does interest-earning deposits with banks (a) keeps increasing each year between 2018 and 2017?"
+        ]
+    },
+    "85c7ca5b9bf444ab9f8c565bd1fbff2c": {
+        "original_question": "in millions , how much compensation expense was attributable to directors in the years ended december 31 , 2015 through 2017?",
+        "decomposed_questions": [
+            "directors in the years ended december 31 , 2015",
+            "in millions , how much compensation expense was attributable to [ANSWER] through 2017?"
+        ]
+    },
+    "45d7508d5fc247c0b551185775a26005": {
+        "original_question": "what was the percentage change in non-cash stock-based compensation expense from 2012 to 2013?",
+        "decomposed_questions": [
+            "what was the percentage change in non-cash stock-based compensation expense from 2012 to 2013?"
+        ]
+    },
+    "d57f8585f96b47c1a5c867bf55d5cb9c": {
+        "original_question": "what do all number of shares sum up, excluding those negative ones in 2012 ?",
+        "decomposed_questions": [
+            "shares sum up, excluding those negative ones in 2012",
+            "what do all number of [ANSWER] ?"
+        ]
+    },
+    "198686ffd2764d5f841c8760d7c74cef": {
+        "original_question": "what is the percentage of long-term debt in relation to the total for total contractual obligations ?",
+        "decomposed_questions": [
+            "long-term debt in relation to the total for total contractual obligations",
+            "what is the percentage of [ANSWER] ?"
+        ]
+    },
+    "6e208b43dbbf4b2d84be6e7c67358a98": {
+        "original_question": "what is the total amount of the fee revenue in the year where total revenue is greater than 13000000?",
+        "decomposed_questions": [
+            "what is the total amount of the fee revenue in the year where total revenue is greater than 13000000?"
+        ]
+    },
+    "7f4275332df14b99a3f5834212a7bfc2": {
+        "original_question": "what is the estimated price of hologic common stock used in the transaction for biolucent acquisition?",
+        "decomposed_questions": [
+            "what is the estimated price of hologic common stock used in the transaction for biolucent acquisition?"
+        ]
+    },
+    "9f757f3c678746a2b3b18881c1bb255f": {
+        "original_question": "what's the total value of all amount that are smaller than 100 in 2008? (in million)",
+        "decomposed_questions": [
+            "amount that are smaller than 100 in 2008? (in million)",
+            "what's the total value of all [ANSWER]"
+        ]
+    },
+    "f8da66d317774ec590debf07884d80a2": {
+        "original_question": "if total segment develops with the same increasing rate in 2016 for total incurred, what will it reach in 2017 for total incurred? (in million)",
+        "decomposed_questions": [
+            "if total segment develops with the same increasing rate in 2016",
+            "[ANSWER] for total incurred, what will it reach in 2017 for total incurred? (in million)"
+        ]
+    },
+    "bf0be874d3ff40318d2f8abb66185938": {
+        "original_question": "what is the ratio of all elements that are in the range of 1000 and 3000 to the sum of elements, for fair of total?",
+        "decomposed_questions": [
+            "elements that are in the range of 1000 and 3000",
+            "what is the ratio of all [ANSWER] to the sum of elements, for fair of total?"
+        ]
+    },
+    "d50b7ed081e34e7abca6257710dd78d9": {
+        "original_question": "what was the change in fair value of retained interests in billions as of december 2018 and december 2017?",
+        "decomposed_questions": [
+            "what was the change in fair value of retained interests in billions as of december 2018 and december 2017?"
+        ]
+    },
+    "7ed82fcab2f94198846efac5399c3513": {
+        "original_question": "what is the sum of impaired loans with an associated allowance in 2016? (in million)",
+        "decomposed_questions": [
+            "which associated allowance in 2016? (in million)",
+            "what is the sum of impaired loans with [ANSWER]"
+        ]
+    },
+    "9b100939e63d4f1abdc13c5d407154ab": {
+        "original_question": "what is the ratio of all value that are in the range of 400 and 1000 to the sum of value, in 2011?",
+        "decomposed_questions": [
+            "value that are in the range of 400 and 1000",
+            "what is the ratio of all [ANSWER] to the sum of value, in 2011?"
+        ]
+    },
+    "8243e848b5454d07bc2db9c23cfe6e9b": {
+        "original_question": "what is the ratio of operating lease obligations to total contractual obligations in 1-3 years?",
+        "decomposed_questions": [
+            "what is the ratio of operating lease obligations to total contractual obligations in 1-3 years?"
+        ]
+    },
+    "7969dde972444f81b25cff31bfedf27d": {
+        "original_question": "what is the currency exchange rate cad to usd used to convert the value of the outstanding credit facility as of december 31 , 3006?",
+        "decomposed_questions": [
+            "what is the currency exchange rate cad to usd used to convert the value of the outstanding credit facility as of december 31 , 3006?"
+        ]
+    },
+    "6dcf97b38a8942c5b795f9cd9b109af3": {
+        "original_question": "what will gaap of operating income be like in 2017 if it develops with the same increasing rate as current?",
+        "decomposed_questions": [
+            "gaap of operating income be like in 2017",
+            "what will [ANSWER] if it develops with the same increasing rate as current?"
+        ]
+    },
+    "fd3898a30db345e69d7407b555261a8f": {
+        "original_question": "what's the sum of all element that are greater than 10000 in mar 31, 2008 (in thousand)",
+        "decomposed_questions": [
+            "element that are greater than 10000 in mar 31, 2008",
+            "what's the sum of all [ANSWER] (in thousand)"
+        ]
+    },
+    "e3194ac0770b433c88bfab8279b13b61": {
+        "original_question": "what's the total amount of the non-gaap adjusted operating income (loss) in the years where operating income (loss) is greater than 0? (in million)",
+        "decomposed_questions": [
+            "the non-gaap adjusted operating income (loss) in which years where operating income (loss)",
+            "what's the total amount of [ANSWER] is greater than 0? (in million)"
+        ]
+    },
+    "13189ba22f5946f78e63af9b69535a5c": {
+        "original_question": "what's the average of provision for credit losses and gains on sales of debt securities of restated in 2005? (in million)",
+        "decomposed_questions": [
+            "what's the average of provision for credit losses and gains on sales of debt securities of restated in 2005? (in million)"
+        ]
+    },
+    "766e43eea4bc43bdb81cbb7a29694c82": {
+        "original_question": "what was the percentage change in the gross profit from 2009 to 2010 \\\\n",
+        "decomposed_questions": [
+            "which gross profit from 2009 to 2010",
+            "what was the percentage change in [ANSWER] \\\\n"
+        ]
+    },
+    "40e91ca050074d888e8f838180608c6b": {
+        "original_question": "in the section with lowest amount of net interest income, what's theamount of net interest income and total revenue, net of interest expense? (in millions)",
+        "decomposed_questions": [
+            "which section with lowest amount of net interest income, what's theamount of net interest income",
+            "in [ANSWER] and total revenue, net of interest expense? (in millions)"
+        ]
+    },
+    "f5895f86a1b049b495b9baddf7840061": {
+        "original_question": "in the section with lowest amount of equity, what's the increasing rate of total revenue?",
+        "decomposed_questions": [
+            "in the section with lowest amount of equity, what's the increasing rate of total revenue?"
+        ]
+    },
+    "759f8e72ce4446e3aeda77650b663ec2": {
+        "original_question": "what percent of the net change in revenue between 2006 and 2007 was due to transmission revenue?",
+        "decomposed_questions": [
+            "which net change in revenue between 2006 and 2007",
+            "what percent of [ANSWER] was due to transmission revenue?"
+        ]
+    },
+    "721b24055ef847c89fdc39a16735a940": {
+        "original_question": "what's the average of curtailments and settlements and special termination benefits in 2010? (in million)",
+        "decomposed_questions": [
+            "what's the average of curtailments and settlements and special termination benefits in 2010? (in million)"
+        ]
+    },
+    "a5a789d270ed4d80b81269e54a97222f": {
+        "original_question": "what was the percentage cumulative total shareholder return on disca for the five year period ended december 31 , 2018?",
+        "decomposed_questions": [
+            "shareholder return on disca for the five year period",
+            "what was the percentage cumulative total [ANSWER] ended december 31 , 2018?"
+        ]
+    },
+    "f7ec51ba9e154506928cce9df7a501d0": {
+        "original_question": "in the level with largest amount of u.s. treasuries of fixed income securities, what's the sum of fixed income securities?",
+        "decomposed_questions": [
+            "in the level with largest amount of u.s. treasuries of fixed income securities, what's the sum of fixed income securities?"
+        ]
+    },
+    "3bec9340f96a4203a779a322b141564d": {
+        "original_question": "in the year with lowest amount of working capital, what's the increasing rate of total assets?",
+        "decomposed_questions": [
+            "in the year with lowest amount of working capital, what's the increasing rate of total assets?"
+        ]
+    },
+    "b610ee5fd46946418c8a8d57a009e48f": {
+        "original_question": "how many years does euro sold for u.s. dollars stay higher than japanese yen sold for u.s. dollars?",
+        "decomposed_questions": [
+            "how many years does euro sold for u.s. dollars stay higher than japanese yen sold for u.s. dollars?"
+        ]
+    },
+    "4a676b9966964cc7890be5ac2fddcad0": {
+        "original_question": "what is the total value of pension and employee benefit obligations ,afdc recorded in plant(a) ,conservation programs(a) and contract valuation adjustments(d) in 2006? (in thousand)",
+        "decomposed_questions": [
+            "what is the total value of pension and employee benefit obligations ,afdc recorded in plant(a) ,conservation programs(a) and contract valuation adjustments(d) in 2006? (in thousand)"
+        ]
+    },
+    "c8d541d7e0ee4009b2911fed6f276ebf": {
+        "original_question": "in the year with lowest amount of sales commissions, what's the increasing rate of occupancy and equipment?",
+        "decomposed_questions": [
+            "in the year with lowest amount of sales commissions, what's the increasing rate of occupancy and equipment?"
+        ]
+    },
+    "f98f1995ab044df8b9457303e492b0e8": {
+        "original_question": "what was the average value of the international funds in the years where federal money market funds is positive for total? (in million)",
+        "decomposed_questions": [
+            "which international funds in the years where federal money market funds is positive for total? (in million)",
+            "what was the average value of [ANSWER]"
+        ]
+    },
+    "ef09156da2854800be7dbf47e07098a6": {
+        "original_question": "what is the sum of other in 2005 and bond trading securities, at fair value of asset management in 2008? (in million)",
+        "decomposed_questions": [
+            "what is the sum of other in 2005 and bond trading securities, at fair value of asset management in 2008? (in million)"
+        ]
+    },
+    "009660bf448140928673f7790d8922d7": {
+        "original_question": "how many years did it take to close the pilgrim plant after after its last refueling?",
+        "decomposed_questions": [
+            "how many years did it take to close the pilgrim plant after after its last refueling?"
+        ]
+    },
+    "925baee59589424285de9bbfd8af8d07": {
+        "original_question": "what is the sum of capital lease obligations for payments due by period ? (in thousand)",
+        "decomposed_questions": [
+            "what is the sum of capital lease obligations for payments due by period ? (in thousand)"
+        ]
+    },
+    "e988a4c9e9b7439a91474e7f7db187a9": {
+        "original_question": "what is the sum of the total expenses in the years where other income is positive? (in million)",
+        "decomposed_questions": [
+            "which years where other income is positive? (in million)",
+            "what is the sum of the total expenses in [ANSWER]"
+        ]
+    },
+    "03598287e3bc408eaecac0625df10d02": {
+        "original_question": "what is the sum of income taxes in 2008 and municipal investments for loancommitments? (in million)",
+        "decomposed_questions": [
+            "what is the sum of income taxes in 2008 and municipal investments for loancommitments? (in million)"
+        ]
+    },
+    "96d716da2b764c88bbedb6e731005c0f": {
+        "original_question": "what's the total amount of subtotal analog signal processing without those subtotal analog signal processing smaller than 500000, in 2014?",
+        "decomposed_questions": [
+            "the total amount of subtotal analog signal processing without those subtotal analog signal processing",
+            "what's [ANSWER] smaller than 500000, in 2014?"
+        ]
+    },
+    "f62c8e2c1ecc47ad9b20ea4c747636cd": {
+        "original_question": "does the value of fixed income markets in 2004 greater than that in 2003?",
+        "decomposed_questions": [
+            "does the value of fixed income markets in 2004 greater than that in 2003?"
+        ]
+    },
+    "9b836afbe6ed4ce2b669122c49e1c0ef": {
+        "original_question": "if average balances in terms of interest-bearing deposits develops with the same growth rate in 2017 ended december 31, what will it reach in 2018 ended december 31? (in million)",
+        "decomposed_questions": [
+            "if average balances in terms of interest-bearing deposits develops with the same growth rate in 2017",
+            "[ANSWER] ended december 31, what will it reach in 2018 ended december 31? (in million)"
+        ]
+    },
+    "f003494d91e043b7982800cca9cc6a42": {
+        "original_question": "what's the sum of active in the range of 100000 and 500000 in 2015? (in million)",
+        "decomposed_questions": [
+            "what's the sum of active in the range of 100000 and 500000 in 2015? (in million)"
+        ]
+    },
+    "0e1b43dde2994d98b22ef6d7a906e25a": {
+        "original_question": "by how much did the fair value of stock-based performance units outstanding decrease from 2016 to 2018?",
+        "decomposed_questions": [
+            "the fair value of stock-based performance units",
+            "by how much did [ANSWER] outstanding decrease from 2016 to 2018?"
+        ]
+    },
+    "358450d9fd814a5997423ce8f481aacc": {
+        "original_question": "as as the chart 4 shows,what do all total revenues sum up, excluding the total revenues for retirement products and the total revenues for corporate benefit funding? (in million)",
+        "decomposed_questions": [
+            "as as the chart 4 shows,what do all total revenues sum up, excluding the total revenues for retirement products",
+            "[ANSWER] and the total revenues for corporate benefit funding? (in million)"
+        ]
+    },
+    "bbeae376cfcc4e4592a3d7a92687f865": {
+        "original_question": "what was the sum of fourth quarter without those fourth quarter smaller than 0, in 2012? (in million)",
+        "decomposed_questions": [
+            "which sum of fourth quarter without those fourth quarter",
+            "what was [ANSWER] smaller than 0, in 2012? (in million)"
+        ]
+    },
+    "cb2f2c2202ea4432adedc0879ee50ac2": {
+        "original_question": "what's the sum of the liabilities in the years where total assets is greater than 400?",
+        "decomposed_questions": [
+            "what's the sum of the liabilities in the years where total assets is greater than 400?"
+        ]
+    },
+    "20729bcdbf344361ba56abb6e40d5cd2": {
+        "original_question": "what was the change in private equity investments carried at estimated fair value between december 31 , 2015 and december 31 , 2014 , in billions?",
+        "decomposed_questions": [
+            "private equity investments carried at estimated fair value between december 31 , 2015 and december 31 , 2014",
+            "what was the change in  [ANSWER]  in billions?"
+        ]
+    },
+    "8b7c6f9c1c754db985d19879e95494fd": {
+        "original_question": "what's the total value of all net income (loss) that are in the range of 1 and 1100000 in 2015 for as previously reported?",
+        "decomposed_questions": [
+            "all net income (loss) that are in the range of 1 and 1100000 in 2015",
+            "what's the total value of [ANSWER] for as previously reported?"
+        ]
+    },
+    "98bdb74e63bb42f693b174d02aaa9935": {
+        "original_question": "what was the total amount of total asset-backed the in the sections where corporate and other bonds is greater than 100? (in million)",
+        "decomposed_questions": [
+            "corporate and other bonds is greater than 100? (in million)",
+            "what was the total amount of total asset-backed the in the sections where [ANSWER]"
+        ]
+    },
+    "462824aa3d3a47f782481dde3e466c96": {
+        "original_question": "which year is standardized measure of discounted future net cash flows relating to proved oil and gas reserves(a) for total the most?",
+        "decomposed_questions": [
+            "flows relating to proved oil and gas reserves(a) for total",
+            "which year is standardized measure of discounted future net cash [ANSWER] the most?"
+        ]
+    },
+    "d5e451e563f0445298aa775232fe6fcb": {
+        "original_question": "which year is network development services of costs of operations (exclusive of items shown separately below) the least?",
+        "decomposed_questions": [
+            "network development services of costs of operations",
+            "which year is [ANSWER] (exclusive of items shown separately below) the least?"
+        ]
+    },
+    "578e44e13e6343429b8cf2d7b07be7b1": {
+        "original_question": "at december 31, 2015,how much is the gross unrealized gains for technology corporate securities less than the gross unrealized gains for total corporate securities? (in million)",
+        "decomposed_questions": [
+            "at december 31, 2015,how much is the gross unrealized gains for technology corporate securities",
+            "[ANSWER] less than the gross unrealized gains for total corporate securities? (in million)"
+        ]
+    },
+    "afdb4f3504554fcf91635c9c2e3a4e28": {
+        "original_question": "in which section the sum of aircraft on firm order has the highest value?",
+        "decomposed_questions": [
+            "in which section the sum of aircraft on firm order has the highest value?"
+        ]
+    },
+    "5d7d7752a81e4494bdf48483c935552b": {
+        "original_question": "what is the total value of professional fees, personnel, data processing and telecommunications and foreign exchange activity1 in 2018? (in million)",
+        "decomposed_questions": [
+            "professional fees, personnel, data processing and telecommunications and foreign exchange",
+            "what is the total value of [ANSWER] activity1 in 2018? (in million)"
+        ]
+    },
+    "caf3d19139f24cb296db0b2bbef59db4": {
+        "original_question": "the total amount of which section ranks first for amortizedcost or cost for fixed maturities? (in million)",
+        "decomposed_questions": [
+            "the total amount of which section ranks first for amortizedcost or cost for fixed maturities? (in million)"
+        ]
+    },
+    "0c4f8e19a73847559482ebff9d13af2f": {
+        "original_question": "which element makes up more than 20% of the total equity securities for level 1 of u.s. defined benefit pension plans in 2011?",
+        "decomposed_questions": [
+            "the total equity securities for level 1 of u.s. defined benefit pension plans",
+            "which element makes up more than 20% of [ANSWER] in 2011?"
+        ]
+    },
+    "86f31e964fb14d2e8c00070ea9c07c1d": {
+        "original_question": "for the blackrock common stock equivalent shares at december 31 , 2015 , accounted for under the equity method , what was the cost per share in dollars?",
+        "decomposed_questions": [
+            "for the blackrock common stock equivalent shares at december 31 , 2015 , accounted for under the equity method",
+            " [ANSWER]  what was the cost per share in dollars?"
+        ]
+    },
+    "d943ef1909804d4eae0b09ec2eb36f02": {
+        "original_question": "what is the average value of total operating revenues for corporate benefit funding, auto & home, and international ? (in million)",
+        "decomposed_questions": [
+            "revenues for corporate benefit funding, auto & home, and international",
+            "what is the average value of total operating [ANSWER] ? (in million)"
+        ]
+    },
+    "4b3181227ffd4a69a222087cbdca0cc4": {
+        "original_question": "what is the ratioof fair value of corporate loans and loan commitments to the total in 2010?",
+        "decomposed_questions": [
+            "what is the ratioof fair value of corporate loans and loan commitments to the total in 2010?"
+        ]
+    },
+    "487cf8754fb440a2b8f895e8d624f60c": {
+        "original_question": "what were the remaining mondovi net assets acquired following the sale of certain excess assets from the deal , in thousands?",
+        "decomposed_questions": [
+            "the remaining mondovi net assets acquired following the sale of certain excess assets from the deal",
+            "what were  [ANSWER]  in thousands?"
+        ]
+    },
+    "32a7a14ca69d4befa5cb75218dcce07e": {
+        "original_question": "what do all proved developed reserves sum up in 2013 for u.s. , excluding synthetic crude oil(mmbbl) and total proved developed reserves(mmboe)?",
+        "decomposed_questions": [
+            "what do all proved developed reserves sum up in 2013 for u.s. , excluding synthetic crude oil(mmbbl) and total proved developed reserves(mmboe)?"
+        ]
+    },
+    "4fb96892decf4f6ca0090ef33032f558": {
+        "original_question": "without management and financial advice fees and distribution fees, how much of revenues is there in total in 2009? (in million)",
+        "decomposed_questions": [
+            "without management and financial advice fees and distribution fees, how much of revenues is there in total in 2009? (in million)"
+        ]
+    },
+    "5271db7dd35f40c6b6c085fc12835423": {
+        "original_question": "in the year with largest amount of other borrowings in terms of carrying value, what's the value of deposits in terms of carrying value?",
+        "decomposed_questions": [
+            "the year with largest amount of other borrowings in terms of carrying value, what's which value of deposits",
+            "in [ANSWER] in terms of carrying value?"
+        ]
+    },
+    "934e09c9bcc24268a75691c22bc94bb9": {
+        "original_question": "what is the annual amortization expense related to customer relationships and network location intangibles , in millions?",
+        "decomposed_questions": [
+            "the annual amortization expense related to customer relationships and network location intangibles",
+            "what is  [ANSWER]  in millions?"
+        ]
+    },
+    "b8f171ffe3a04d0db779380da5e94602": {
+        "original_question": "what was the total amount of september 30, 2009 in the range of 0 and 1000 in 2009 ? (in thousand)",
+        "decomposed_questions": [
+            "what was the total amount of september 30, 2009 in the range of 0 and 1000 in 2009 ? (in thousand)"
+        ]
+    },
+    "1d42bb6466534481bd72aa95edeee4d5": {
+        "original_question": "in 2008 what was the approximate tax rate on the company recorded an aggregate net unrealized loss",
+        "decomposed_questions": [
+            "in 2008 what was the approximate tax rate on the company recorded an aggregate net unrealized loss"
+        ]
+    },
+    "1c37de8c8545490fb03d0ed09eaaa0b7": {
+        "original_question": "what was the average value of the income taxes payable in the years where net earnings is positive?",
+        "decomposed_questions": [
+            "the income taxes payable in which years",
+            "what was the average value of  [ANSWER]  net earnings is positive?"
+        ]
+    },
+    "7d10f00de15248958c67994ebbc8c131": {
+        "original_question": "what is the sum of the foreign currency forwards in the years where interest rate caps greater than 0? (in million)",
+        "decomposed_questions": [
+            "what is the sum of the foreign currency forwards in the years where interest rate caps greater than 0? (in million)"
+        ]
+    },
+    "e71bcec0bdd947f8a2d7c28be20d8406": {
+        "original_question": "what was the percentage change in the expenses related to he issuing of stock option in 2009",
+        "decomposed_questions": [
+            "what was the percentage change in the expenses related to he issuing of stock option in 2009"
+        ]
+    },
+    "6846706dd2fe489b87422799be0bb5f7": {
+        "original_question": "what is the ratio of other borrowed funds in table 2 to the preferred stock in table 0 in 2016?",
+        "decomposed_questions": [
+            "other borrowed funds in table 2 to which preferred stock in table 0",
+            "what is the ratio of [ANSWER] in 2016?"
+        ]
+    },
+    "a370868d5efb4b0b8c30331074e651ce": {
+        "original_question": "what's the total value of all net income for before consolidation that are in the range of 10 and 600 in 2010? (in million)",
+        "decomposed_questions": [
+            "what's the total value of all net income for before consolidation that are in the range of 10 and 600 in 2010? (in million)"
+        ]
+    },
+    "b0a19434f8bf40cc92ddfa503d31a09e": {
+        "original_question": "how many trading securities debt exceed the average of trading securities debt in 2009?",
+        "decomposed_questions": [
+            "how many trading securities debt exceed the average of trading securities debt in 2009?"
+        ]
+    },
+    "ab9c286273864e8fb845dec27027a164": {
+        "original_question": "what will total assets reach in 2014 if it continues to grow at its current rate?",
+        "decomposed_questions": [
+            "what will total assets reach in 2014 if it continues to grow at its current rate?"
+        ]
+    },
+    "a974f7385c4f4b0f9a8eca5d3ed67d49": {
+        "original_question": "what is the growing rate of net investment income in the year with the most distribution fees?",
+        "decomposed_questions": [
+            "what is the growing rate of net investment income in the year with the most distribution fees?"
+        ]
+    },
+    "a2f79e423a91402db60f308c472a8b74": {
+        "original_question": "in the year with largest amount of pension plans, what's the increasing rate of benefits earned during the year?",
+        "decomposed_questions": [
+            "in the year with largest amount of pension plans, what's the increasing rate of benefits earned during the year?"
+        ]
+    },
+    "280241c124374067a52086c98c2c8a8b": {
+        "original_question": "what is the percentage of goodwill in relation to the total on december 31,2016? (in million)",
+        "decomposed_questions": [
+            "which total on december 31,2016? (in million)",
+            "what is the percentage of goodwill in relation to [ANSWER]"
+        ]
+    },
+    "59415dfea2a841ad88b08342803c57e0": {
+        "original_question": "what is the sum of the other investments for amount in the sections where equity securities is positive? (in million)",
+        "decomposed_questions": [
+            "what is the sum of the other investments for amount in the sections where equity securities is positive? (in million)"
+        ]
+    },
+    "102c5060834e436ab94c735e50023df1": {
+        "original_question": "if noninterest expense develops with the same growth rate in 2016, what will it reach in 2017? (in million)",
+        "decomposed_questions": [
+            "if noninterest expense develops with which same growth rate",
+            "[ANSWER] in 2016, what will it reach in 2017? (in million)"
+        ]
+    },
+    "0f853db20fd346e2bbe8f61ca99721d5": {
+        "original_question": "what's the total value of all year ended october 31, that are in the range of 0 and 5 in 2017? (in million)",
+        "decomposed_questions": [
+            "what's the total value of all year ended october 31, that are in the range of 0 and 5 in 2017? (in million)"
+        ]
+    },
+    "5606b62da32c4f36b657e24f900a8995": {
+        "original_question": "what do all total non-interest income sum up, excluding those negative ones in 2012 ?",
+        "decomposed_questions": [
+            "income sum up, excluding those negative ones in 2012",
+            "what do all total non-interest [ANSWER] ?"
+        ]
+    },
+    "7df1feb3010b492792ea639cf7157325": {
+        "original_question": "what portion of the securities approved by the security holders remains available for future issunce?",
+        "decomposed_questions": [
+            "which securities approved by the security holders",
+            "what portion of [ANSWER] remains available for future issunce?"
+        ]
+    },
+    "a008a089ae0e4692b174628a5f738d24": {
+        "original_question": "in the year with largest amount of net income, what's the sum ofnet income and depreciation and amortization? (in thousands)",
+        "decomposed_questions": [
+            "in the year with largest amount of net income, what's the sum ofnet income and depreciation and amortization? (in thousands)"
+        ]
+    },
+    "ea582b2747ec49e695bf8a629441ef70": {
+        "original_question": "what was the sum of total electric retail without those total electric retail smaller than 2000( in 2018)? (in thousand)",
+        "decomposed_questions": [
+            "the sum of total electric retail without those total electric retail",
+            "what was [ANSWER] smaller than 2000( in 2018)? (in thousand)"
+        ]
+    },
+    "1360bd25b3ef4b868793e1aef72461ec": {
+        "original_question": "what is the growing rate of residential mortgage in the years with the least home equity \uff1f",
+        "decomposed_questions": [
+            "which years with the least home equity",
+            "what is the growing rate of residential mortgage in [ANSWER] \uff1f"
+        ]
+    },
+    "d23621be3d49462ea38e3cd759c784ec": {
+        "original_question": "if total revenues develops with the same growth rate in2011, what will it reach in 2012? (in million)",
+        "decomposed_questions": [
+            "if total revenues develops with which same growth rate",
+            "[ANSWER] in2011, what will it reach in 2012? (in million)"
+        ]
+    },
+    "77ed1926d1214183a7b84186b97e9b33": {
+        "original_question": "what percentage of the aggregate consideration for the greenline acquisition was paid to the sellers in 2009 based on the 2008 earn-out target?",
+        "decomposed_questions": [
+            "the aggregate consideration for which greenline acquisition",
+            "what percentage of [ANSWER] was paid to the sellers in 2009 based on the 2008 earn-out target?"
+        ]
+    },
+    "293324243cbd4df4836ff7aa39605569": {
+        "original_question": "in the year with largest amount of regulated natural gas, what's the increasing rate of nonregulated electric and other?",
+        "decomposed_questions": [
+            "in the year with largest amount of regulated natural gas, what's the increasing rate of nonregulated electric and other?"
+        ]
+    },
+    "42c7fa6f0e5640e19035d5ea76cd5454": {
+        "original_question": "what do all notional sum up, excluding those negative ones in 2008 for as of december 31, 2008 for financial assets with interest rate risk? (in million)",
+        "decomposed_questions": [
+            "notional sum up, excluding those negative ones in 2008 for as of december 31, 2008",
+            "what do all [ANSWER] for financial assets with interest rate risk? (in million)"
+        ]
+    },
+    "80f1bd5b56e24c75a15086e99f5ee028": {
+        "original_question": "in the year with largest amount of squarefeet of total consolidated portfolio, what's the increasing rate of ann. rentrevenue of total consolidated portfolio?",
+        "decomposed_questions": [
+            "in the year with largest amount of squarefeet of total consolidated portfolio, what's the increasing rate of ann. rentrevenue of total consolidated portfolio?"
+        ]
+    },
+    "5f8317477a6745cb8cc0c669b08735a0": {
+        "original_question": "what is the growing rate of total asset-6 in the year with the most gross profit? (in %)",
+        "decomposed_questions": [
+            "which year with the most gross profit? (in %)",
+            "what is the growing rate of total asset-6 in [ANSWER]"
+        ]
+    },
+    "f6974c3a732a4e6889e2ac82d11f8f90": {
+        "original_question": "in the year with largest value of sales of oil, what's the sum of sales of gas? (in million)",
+        "decomposed_questions": [
+            "in the year with largest value of sales of oil, what's the sum of sales of gas? (in million)"
+        ]
+    },
+    "1cf346d2659446e4b63f97ee55832344": {
+        "original_question": "which year is management and financial advice fees the highest for years ended december 31?",
+        "decomposed_questions": [
+            "which year is management and financial advice fees the highest for years ended december 31?"
+        ]
+    },
+    "112b96cd4a85420f9528241e692d46fe": {
+        "original_question": "what is the growing rate of planned generation (twh) in the year with the most average contracted price per mwh?",
+        "decomposed_questions": [
+            "which year with the most average contracted price",
+            "what is the growing rate of planned generation (twh) in [ANSWER] per mwh?"
+        ]
+    },
+    "948b56d696444e01ae93b8de20f44a95": {
+        "original_question": "what do all planned net mw in operation sum up without those planned net mw in operation smaller than 4155, in 2006?",
+        "decomposed_questions": [
+            "what do all planned net mw in operation sum up without those planned net mw in operation smaller than 4155, in 2006?"
+        ]
+    },
+    "ef58c7f7c78d497fbe1ea35ef32d9278": {
+        "original_question": "what is the sum of the average annual rent per square foot-2 of life science in the years where average annual rent per unit-2 of senior housing-1 is positive?",
+        "decomposed_questions": [
+            "which years where average annual rent per unit-2 of senior housing-1",
+            "what is the sum of the average annual rent per square foot-2 of life science in [ANSWER] is positive?"
+        ]
+    },
+    "996fce86ff5247cdbf40eabd279f7f93": {
+        "original_question": "in the year with largest amount of securities america, inc.-3(4) for actual capital, what's the sum of threadneedle-6 ? (in million)",
+        "decomposed_questions": [
+            "in the year with largest amount of securities america, inc.-3(4) for actual capital, what's the sum of threadneedle-6 ? (in million)"
+        ]
+    },
+    "03bc78ef8c694edeb9051490ff7b1e03": {
+        "original_question": "in the year with largest amount of granted of shares in table 3, what's the increasing rate of net reserves in table 4?",
+        "decomposed_questions": [
+            "which year with largest amount of granted",
+            "in [ANSWER] of shares in table 3, what's the increasing rate of net reserves in table 4?"
+        ]
+    },
+    "8ce90c190a1e4175a4a34ca835a6506b": {
+        "original_question": "what is the growing rate of average expected option life (years) in the year with the most risk-free interest rate (%)?",
+        "decomposed_questions": [
+            "which year with the most risk-free interest rate",
+            "what is the growing rate of average expected option life (years) in [ANSWER] (%)?"
+        ]
+    },
+    "40d8c882977d4684bbd3b9b355b5653a": {
+        "original_question": "what is the total value of benefits earned during the year, interest cost on benefit obligations, actuarial gain (loss) and benefits paid for u.s. in 2005? (in million)",
+        "decomposed_questions": [
+            "the year, interest cost on benefit obligations, actuarial gain (loss) and benefits paid for u.s. in 2005? (in million)",
+            "what is the total value of benefits earned during [ANSWER]"
+        ]
+    },
+    "993449f3cae841a58eade878d3ba6c4c": {
+        "original_question": "what's the average of the commissions for year ended december 31, in the years where goodwill and other intangible assets, net of deferred tax liabilities is positive?",
+        "decomposed_questions": [
+            "the commissions for year ended december 31, in which years where goodwill and other intangible assets, net of deferred tax liabilities",
+            "what's the average of [ANSWER] is positive?"
+        ]
+    },
+    "fb675129981a4bc5890f16da9e4b3488": {
+        "original_question": "what was the total amount of elements for december 31 in the range of 2000 and 3000 in 2010? (in million)",
+        "decomposed_questions": [
+            "which total amount of elements for december 31 in the range of 2000",
+            "what was [ANSWER] and 3000 in 2010? (in million)"
+        ]
+    },
+    "5ee7b272d07e4076ab42110b85540e45": {
+        "original_question": "which year is benefit obligation at beginning of year for con edison the least?",
+        "decomposed_questions": [
+            "which year is benefit obligation at beginning of year for con edison the least?"
+        ]
+    },
+    "509bdf8e0a4b456b952cd64524b836f6": {
+        "original_question": "what is the sum of the unrealized gains (losses) on derivative instruments, net of income tax in the years where net income greater than 4000?",
+        "decomposed_questions": [
+            "what is the sum of the unrealized gains (losses) on derivative instruments, net of income tax in the years where net income greater than 4000?"
+        ]
+    },
+    "22f7febe1e9f450c8f8993ad86db73d0": {
+        "original_question": "what is the difference between the greatest fixed income in 2015 and 2016\uff1f (in millions)",
+        "decomposed_questions": [
+            "what is the difference between the greatest fixed income in 2015 and 2016\uff1f (in millions)"
+        ]
+    },
+    "1ff6825a36324e9f91b583351b9d65d1": {
+        "original_question": "what is the highest total amount of product revenues, net in 2014?? (in million)",
+        "decomposed_questions": [
+            "product revenues, net in 2014?? (in million)",
+            "what is the highest total amount of [ANSWER]"
+        ]
+    },
+    "a6ba3eabe728410191c118955c734b29": {
+        "original_question": "what is the sum of total deliveries in franchise area in 2010 ? (in million)",
+        "decomposed_questions": [
+            "what is the sum of total deliveries in franchise area in 2010 ? (in million)"
+        ]
+    },
+    "a89afa083bd74f46819fa14c303be893": {
+        "original_question": "what's the average of the private equity/venture capital in the years where svb capital partners ii, lp for carrying value(as reported) for december 31, is positive? (in thousand)",
+        "decomposed_questions": [
+            "what's the average of the private equity/venture capital in the years where svb capital partners ii, lp for carrying value(as reported) for december 31, is positive? (in thousand)"
+        ]
+    },
+    "9da8a53a9b8b44f7b055599556c61830": {
+        "original_question": "what is the sum of the consumers in the section where consumers is greater than 1 (in million)",
+        "decomposed_questions": [
+            "which section where consumers is greater than 1 (in million)",
+            "what is the sum of the consumers in [ANSWER]"
+        ]
+    },
+    "305527e7afe54a209e0cab02b9b343e4": {
+        "original_question": "what was the total amount of the commercial banking in the sections where investment bank is greater than 1000? (in million)",
+        "decomposed_questions": [
+            "which commercial banking in the sections where investment bank is greater than 1000? (in million)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "e04bd1f7dbfd45168ebe2d75bccdaa9f": {
+        "original_question": "what is the percentage change in the balance of inventories from 2012 to 2013?",
+        "decomposed_questions": [
+            "what is the percentage change in the balance of inventories from 2012 to 2013?"
+        ]
+    },
+    "4e29f737ee70492ebc8cfdeac31fe7ad": {
+        "original_question": "what's the 30% of total for total transaction and integration charges in 2010? (in million)",
+        "decomposed_questions": [
+            "what's the 30% of total for total transaction and integration charges in 2010? (in million)"
+        ]
+    },
+    "125a2d784c36496ea4e51e03a1d2a966": {
+        "original_question": "how much of home equity is there in total without california and new york?",
+        "decomposed_questions": [
+            "home equity is there in total without california",
+            "how much of [ANSWER] and new york?"
+        ]
+    },
+    "12ebf8ac62f04f45b7169627f1e256a1": {
+        "original_question": "what is the growing rate of gross profit in the year with the most net revenues ?",
+        "decomposed_questions": [
+            "which year with the most net revenues",
+            "what is the growing rate of gross profit in [ANSWER] ?"
+        ]
+    },
+    "a9026758803542848af8b8ebb5498cc1": {
+        "original_question": "what is the growth rate in the fair value of retained interests in 2018 compare to 2017?",
+        "decomposed_questions": [
+            "what is the growth rate in the fair value of retained interests in 2018 compare to 2017?"
+        ]
+    },
+    "a6f6f2027bff46e98b7c692af3cbf67b": {
+        "original_question": "what is the percentage decrease in total liability from dec 31 2007 to dec 31 2008?",
+        "decomposed_questions": [
+            "what is the percentage decrease in total liability from dec 31 2007 to dec 31 2008?"
+        ]
+    },
+    "fcfdd1fd1c6842dabf895b79d4d1b9a7": {
+        "original_question": "what is the percent of the valuation allowance to the state net operating loss carry forwards at december 312012",
+        "decomposed_questions": [
+            "the state net operating loss carry forwards at december 312012",
+            "what is the percent of the valuation allowance to [ANSWER]"
+        ]
+    },
+    "c474b3c61f994f1e9414ea8a96a6b9b3": {
+        "original_question": "how many element exceed the average of total long-term unsecured funding and structured notes in 2016?",
+        "decomposed_questions": [
+            "which average of total long-term unsecured funding and structured notes",
+            "how many element exceed [ANSWER] in 2016?"
+        ]
+    },
+    "2c037285f92d4db4a3867b8e5494c206": {
+        "original_question": "what is the average growth rate of production expenses, including related taxes between 2011 and 2012 ?",
+        "decomposed_questions": [
+            "production expenses, including related taxes between 2011 and 2012",
+            "what is the average growth rate of [ANSWER] ?"
+        ]
+    },
+    "5394a1bf2a7d4f3e88658ce9344a7506": {
+        "original_question": "what is the average growth rate of attritional for current year between 2015 and 2016? (in %)",
+        "decomposed_questions": [
+            "what is the average growth rate of attritional for current year between 2015 and 2016? (in %)"
+        ]
+    },
+    "35242bb3d79d43fead9979303af200a3": {
+        "original_question": "what's the total amount of the net income in the years where land is greater than 0? (in thousand)",
+        "decomposed_questions": [
+            "what's the total amount of the net income in the years where land is greater than 0? (in thousand)"
+        ]
+    },
+    "96f6ff26f04c4666a049c3568abe1662": {
+        "original_question": "what's the total amount of the policyholders\u2019 account balances - investment contracts in the years where policy loans of assets greater than 0 for fair value? (in million)",
+        "decomposed_questions": [
+            "what's the total amount of the policyholders\u2019 account balances - investment contracts in the years where policy loans of assets greater than 0 for fair value? (in million)"
+        ]
+    },
+    "b077051285ce460cac615436e2280733": {
+        "original_question": "what's the total value of all elements for total consumer recoveries that are in the range of 200 and 500 in 2016? (in million)",
+        "decomposed_questions": [
+            "recoveries that are in the range of 200 and 500",
+            "what's the total value of all elements for total consumer [ANSWER] in 2016? (in million)"
+        ]
+    },
+    "b3eb9a09268d42899dee2068e1fc1354": {
+        "original_question": "in the year with the most group retirement products*, what is the growth rate of individual fixed annuities ? (in %)",
+        "decomposed_questions": [
+            "in the year with the most group retirement products*, what is the growth rate of individual fixed annuities ? (in %)"
+        ]
+    },
+    "0dd9a9a226d843ecb3adea084e6d7ca1": {
+        "original_question": "does other of revenues in millions keeps increasing each year between 2016 and 2017?",
+        "decomposed_questions": [
+            "does other of revenues in millions keeps increasing each year between 2016 and 2017?"
+        ]
+    },
+    "d8101694e8474f8286adf9b9e4f6be55": {
+        "original_question": "what is the sum of the total loans in the sections where commercial loans is positive? (in thousand)",
+        "decomposed_questions": [
+            "which sections where commercial loans is positive? (in thousand)",
+            "what is the sum of the total loans in [ANSWER]"
+        ]
+    },
+    "7c4b646f6f2a48d6afb5ad9e248a2458": {
+        "original_question": "in the year with the most net flows, what is the growth rate of market appreciation/(depreciation)?",
+        "decomposed_questions": [
+            "in the year with the most net flows, what is the growth rate of market appreciation/(depreciation)?"
+        ]
+    },
+    "68b1ad2c874542ffa0a9e0d85e11481c": {
+        "original_question": "in the year with the most expected volatility of conversion feature in table 0, what is the growth rate of net credit losses in table 2?",
+        "decomposed_questions": [
+            "which year with the most expected volatility of conversion",
+            "in [ANSWER] feature in table 0, what is the growth rate of net credit losses in table 2?"
+        ]
+    },
+    "4838f6bff98046c991cbd910933ce0cb": {
+        "original_question": "for the ipl cumulative preferred stock , what was the dividend rate at december 31 , 2016 and 2015?",
+        "decomposed_questions": [
+            "for the ipl cumulative preferred stock , what was the dividend rate at december 31 , 2016 and 2015?"
+        ]
+    },
+    "1bb269e08a9447fea9514f754d162626": {
+        "original_question": "what is the percentage of all cash and cash equivalents and unsettled fund receivables that are positive to the total amount, in 2011 ?",
+        "decomposed_questions": [
+            "cash and cash equivalents and unsettled fund receivables that are positive to the total amount, in 2011",
+            "what is the percentage of all [ANSWER] ?"
+        ]
+    },
+    "4ba229f98f0449a2b8f339e328c59580": {
+        "original_question": "how much of march 31, 2008 is there in total without operating revenues and operating income? (in thousand)",
+        "decomposed_questions": [
+            "how much of march 31, 2008 is there in total without operating revenues and operating income? (in thousand)"
+        ]
+    },
+    "e64642d9c1784af59561ced5a6be96e7": {
+        "original_question": "what will andes sbu be like in 2015 if it continues to grow at the same rate as it did in 2014? (in million)",
+        "decomposed_questions": [
+            "what will andes sbu be like in 2015 if it continues to grow at the same rate as it did in 2014? (in million)"
+        ]
+    },
+    "2ebab22ce99548c99e0101d98d9a6d67": {
+        "original_question": "what was the average value of tier 1 capital, risk-weighted, adjusted average for basel iii standardized transitional in 2016 ? (in million)",
+        "decomposed_questions": [
+            "what was the average value of tier 1 capital, risk-weighted, adjusted average for basel iii standardized transitional in 2016 ? (in million)"
+        ]
+    },
+    "9abe355a9115495895cde14d004093b5": {
+        "original_question": "in the year with largest amount of operating income in table 2, what's the sum of interest income in table 2? (in thousand)",
+        "decomposed_questions": [
+            "in the year with largest amount of operating income in table 2, what's the sum of interest income in table 2? (in thousand)"
+        ]
+    },
+    "41e5d50b2f6d431fbbe648d8bf4f1cb5": {
+        "original_question": "in the year with lowest amount of tricare subtotal, what's the increasing rate of commercial and other?",
+        "decomposed_questions": [
+            "which year with lowest amount of tricare",
+            "in [ANSWER] subtotal, what's the increasing rate of commercial and other?"
+        ]
+    },
+    "b320cd7944dd4fb68ebbf5e0b9af6ff4": {
+        "original_question": "what do all operating leases in different period sum up without those smaller than 200000?",
+        "decomposed_questions": [
+            "what do all operating leases in different period sum up without those smaller than 200000?"
+        ]
+    },
+    "c28a452d111d4350acd6f937daa9467c": {
+        "original_question": "what is the ratio of policy loans of assets to the total in 2010 for fair value?",
+        "decomposed_questions": [
+            "assets to the total in 2010 for",
+            "what is the ratio of policy loans of [ANSWER] fair value?"
+        ]
+    },
+    "1972b2863636444793e59098914477cd": {
+        "original_question": "does the average value of total fixed rate debt in 2010 greater than that in 2011?",
+        "decomposed_questions": [
+            "does the average value of total fixed rate debt in 2010 greater than that in 2011?"
+        ]
+    },
+    "b4695a2a1b6b4d6b96a3e1eb38e14680": {
+        "original_question": "what is the percentage change in common shareholders 2019 equity due to the adjustments presented in the table to reach basel iii cet1?",
+        "decomposed_questions": [
+            "common shareholders 2019 equity due to which adjustments presented in the table to reach basel iii",
+            "what is the percentage change in [ANSWER] cet1?"
+        ]
+    },
+    "2b1af05e4d4b4683828c1da7b0d2ab41": {
+        "original_question": "does the value of future cash inflows for total in 2003 greater than that in 2002 ?",
+        "decomposed_questions": [
+            "inflows for total in 2003 greater than that in 2002",
+            "does the value of future cash [ANSWER] ?"
+        ]
+    },
+    "e5e6d81cf446488097fdcece17aa9330": {
+        "original_question": "what do all commercial realestate sum up, excluding those negative ones for net charge-offs / (recoveries)? (in million)",
+        "decomposed_questions": [
+            "what do all commercial realestate sum up, excluding those negative ones for net charge-offs / (recoveries)? (in million)"
+        ]
+    },
+    "8d31bd87a7f64e4d9acd5ec44217b932": {
+        "original_question": "what is the sum of the total operating expenses in the sections where total operating revenues is positive? (in million)",
+        "decomposed_questions": [
+            "which sections where total operating revenues is positive? (in million)",
+            "what is the sum of the total operating expenses in [ANSWER]"
+        ]
+    },
+    "0b4bd52eba1049feb79cda6825398a10": {
+        "original_question": "in the year with largest amount of fair value for aaa, what's the growing rate of fair value for aa?",
+        "decomposed_questions": [
+            "in the year with largest amount of fair value for aaa, what's the growing rate of fair value for aa?"
+        ]
+    },
+    "76736e5cda684cd08c9f571d7f3976d9": {
+        "original_question": "what is the percentual growth of the global products' atoi concerning the total atoi for all segments during the years 2014-2015?",
+        "decomposed_questions": [
+            "the global products' atoi concerning the total atoi for all segments",
+            "what is the percentual growth of [ANSWER] during the years 2014-2015?"
+        ]
+    },
+    "a13890653e5b42f98b5803cbc2d68410": {
+        "original_question": "what is the sum of purchased impaired in the range of 200 and 3000 in 2011? (in million)",
+        "decomposed_questions": [
+            "purchased impaired in the range of 200 and 3000",
+            "what is the sum of [ANSWER] in 2011? (in million)"
+        ]
+    },
+    "98ecc3cd098643ffbb643860656525af": {
+        "original_question": "what's the sum of all elements that are greater than 5000 in total contractual obligations? (in million)",
+        "decomposed_questions": [
+            "what's the sum of all elements that are greater than 5000 in total contractual obligations? (in million)"
+        ]
+    },
+    "d371806a95a34f5dacaaff2b7435b864": {
+        "original_question": "what is the approximately number of vehicles that were converted to compressed natural gas",
+        "decomposed_questions": [
+            "vehicles that were converted to compressed natural gas",
+            "what is the approximately number of [ANSWER]"
+        ]
+    },
+    "811fb28cfd0743f6bde756ff2183acb4": {
+        "original_question": "in the section with the most bank deposits, what is the growth rate of collateral financing arrangements?",
+        "decomposed_questions": [
+            "in the section with the most bank deposits, what is the growth rate of collateral financing arrangements?"
+        ]
+    },
+    "e937adc68f7446578be486e875090427": {
+        "original_question": "what was the sum of the shares purchase discount from 2015 to 2017 in millions",
+        "decomposed_questions": [
+            "which shares purchase discount from 2015 to 2017",
+            "what was the sum of [ANSWER] in millions"
+        ]
+    },
+    "0028ab466a46412793d9c94d56a3191d": {
+        "original_question": "in which year is other comprehensive income before reclassifications for changes related to cash flow derivative hedges positive?",
+        "decomposed_questions": [
+            "in which year is other comprehensive income before reclassifications for changes related to cash flow derivative hedges positive?"
+        ]
+    },
+    "5de5d16edab44d5fac84d65859060d40": {
+        "original_question": "in the year with the most total loans in terms of card member loans, what is the growth rate of average loans in terms of card member loans?",
+        "decomposed_questions": [
+            "which year with the most total loans in terms",
+            "in [ANSWER] of card member loans, what is the growth rate of average loans in terms of card member loans?"
+        ]
+    },
+    "cf22fa20ecad48599702560f2068ca77": {
+        "original_question": "in terms of assets,which year is fair values of total derivatives designated as hedging instruments on december 31 smaller than 100000 thousand?",
+        "decomposed_questions": [
+            "derivatives designated as hedging instruments on december 31",
+            "in terms of assets,which year is fair values of total [ANSWER] smaller than 100000 thousand?"
+        ]
+    },
+    "1d0f7155fed54d55a288ebaaa2f0dbed": {
+        "original_question": "what is the sum of short-term debt, long-term debt and collateral financing arrangements in 2006? (in million)",
+        "decomposed_questions": [
+            "what is the sum of short-term debt, long-term debt and collateral financing arrangements in 2006? (in million)"
+        ]
+    },
+    "54fc7e5b99214f50abd1912b4b9de1af": {
+        "original_question": "what will balance of derivatives be like in 2009 if it develops with the same increasing rate as current? (in dollars in millions)",
+        "decomposed_questions": [
+            "it develops with the same increasing rate as current? (in dollars in millions)",
+            "what will balance of derivatives be like in 2009 if [ANSWER]"
+        ]
+    },
+    "136b73e8cd7f49518991dcfed65e497a": {
+        "original_question": "how many share repurchase program exceed the average of share repurchase program in october, 2013?",
+        "decomposed_questions": [
+            "how many share repurchase program exceed the average of share repurchase program in october, 2013?"
+        ]
+    },
+    "04b4981af7e54e258f6d95186b611dd1": {
+        "original_question": "in the section with largest amount of operating revenues, what's the sum of elements? (in thousand)",
+        "decomposed_questions": [
+            "in the section with largest amount of operating revenues, what's the sum of elements? (in thousand)"
+        ]
+    },
+    "a515790e4a494f5c92d58f98a677b42e": {
+        "original_question": "what is the sum of the diluted in the years where basic is positive?",
+        "decomposed_questions": [
+            "what is the sum of the diluted in the years where basic is positive?"
+        ]
+    },
+    "f251a182413e495bbd9be906d2d33846": {
+        "original_question": "in the year with largest amount of management and financial advice fees, what's the sum of management and financial advice fees and distribution fees? (in million)",
+        "decomposed_questions": [
+            "in the year with largest amount of management and financial advice fees, what's the sum of management and financial advice fees and distribution fees? (in million)"
+        ]
+    },
+    "bb003680a77e4c39a1bc933c0aa5f681": {
+        "original_question": "for the section where the balance, january 1, 2007 is negative, what's the value of the balance, december 31, 2007 ? (in million)",
+        "decomposed_questions": [
+            "for the section where the balance, january 1, 2007 is negative, what's the value of the balance, december 31, 2007 ? (in million)"
+        ]
+    },
+    "3c20d11307ab403ea9d00cb1d4cae574": {
+        "original_question": "what is the column number of the section towards which the expenses on support services is greater than 600 million?",
+        "decomposed_questions": [
+            "which section towards which the expenses on support services",
+            "what is the column number of [ANSWER] is greater than 600 million?"
+        ]
+    },
+    "7e0bd5c0aedf481aab74c049cc460c55": {
+        "original_question": "what is the growing rate of fuel in the year with the most electric?",
+        "decomposed_questions": [
+            "what is the growing rate of fuel in the year with the most electric?"
+        ]
+    },
+    "9d4bb2c6a37240a8a1c3da9e867b4930": {
+        "original_question": "what will inventories be like in 2015 if it develops with the same increasing rate as current? (in million)",
+        "decomposed_questions": [
+            "it develops with the same increasing rate as current? (in million)",
+            "what will inventories be like in 2015 if [ANSWER]"
+        ]
+    },
+    "ac04dbf42988486b9f3058f42cbb600f": {
+        "original_question": "what is the total value of orange co., ca, san francisco, ca, los angeles, ca and san diego, ca for number of apartment communities?",
+        "decomposed_questions": [
+            "what is the total value of orange co., ca, san francisco, ca, los angeles, ca and san diego, ca for number of apartment communities?"
+        ]
+    },
+    "6d0a2e256f9a44bcb6d42ae208ba9e70": {
+        "original_question": "what is the average value of gain (loss) on assets related to executive deferred compensation plan in 2017,2016 and 2015 for year ended october 31,? (in million)",
+        "decomposed_questions": [
+            "assets related to executive deferred compensation plan in 2017,2016 and 2015 for year ended october 31,? (in million)",
+            "what is the average value of gain (loss) on [ANSWER]"
+        ]
+    },
+    "789dbdd98de7432ca6ccc967f09798dd": {
+        "original_question": "what is the sum of case reserves of 2008 ceded, and balance, end of year of 2009 ?",
+        "decomposed_questions": [
+            "reserves of 2008 ceded, and balance, end of year of 2009",
+            "what is the sum of case [ANSWER] ?"
+        ]
+    },
+    "c649cb8dafee4d23b4184b0c8c89e74f": {
+        "original_question": "in the year with the most interest cost in table 1, what is the growth rate of environmental in table 0?",
+        "decomposed_questions": [
+            "in the year with the most interest cost in table 1, what is the growth rate of environmental in table 0?"
+        ]
+    },
+    "2b311797493b42b3bd2330752ecbf533": {
+        "original_question": "what is the total value of subprime, non-u.s. residential,securities and loans in 2009 for gross ? (in million)",
+        "decomposed_questions": [
+            "loans in 2009 for gross ? (in million)",
+            "what is the total value of subprime, non-u.s. residential,securities and [ANSWER]"
+        ]
+    },
+    "f078da0e81734e75a1796b1a986e8f47": {
+        "original_question": "what was the value , in millions of dollars , of net revenues in 2007?",
+        "decomposed_questions": [
+            "what was the value , in millions of dollars , of net revenues in 2007?"
+        ]
+    },
+    "92cb074105984f5eaed16f4a41974390": {
+        "original_question": "in which section the sum of three months or less has the highest value?",
+        "decomposed_questions": [
+            "which sum of three months or less",
+            "in which section [ANSWER] has the highest value?"
+        ]
+    },
+    "2250de7972f840ec9fa053eeb16ba602": {
+        "original_question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "decomposed_questions": [
+            "what was the ratio of the purchase in december 2012 to the purchase in january 2013"
+        ]
+    },
+    "3dc8d93adbe140da90516aa3058975a3": {
+        "original_question": "what percentage of total minimum lease payments are operating leases as of december 31 , 2006?",
+        "decomposed_questions": [
+            "what percentage of total minimum lease payments are operating leases as of december 31 , 2006?"
+        ]
+    },
+    "2d9cef78c80d4889b775b75a50936077": {
+        "original_question": "in the year with the most originally reported net reserves for unpaid claim and claim adjustmentexpenses, what is the growth rate of one year later?",
+        "decomposed_questions": [
+            "in which year with the most originally reported net reserves for unpaid claim and claim",
+            "[ANSWER] adjustmentexpenses, what is the growth rate of one year later?"
+        ]
+    },
+    "c98d79603f7f4fec8cab9147fa147fb2": {
+        "original_question": "what is the sum of the price/mix-1 in the sections where volume \u2013 units is positive?",
+        "decomposed_questions": [
+            "the price/mix-1 in which sections where volume \u2013 units",
+            "what is the sum of [ANSWER] is positive?"
+        ]
+    },
+    "1715c5bee969430ca87138f595352a89": {
+        "original_question": "what will purchase of minerals in-place reach in 2014 if it continues to grow at its current rate? (in thousand)",
+        "decomposed_questions": [
+            "what will purchase of minerals in-place reach in 2014 if it continues to grow at its current rate? (in thousand)"
+        ]
+    },
+    "2bc1a6d6701f4df7820432deab9e2540": {
+        "original_question": "what do all change, net of taxes sum up, excluding those negative ones in 2015? (in million)",
+        "decomposed_questions": [
+            "taxes sum up, excluding those negative ones in 2015? (in million)",
+            "what do all change, net of [ANSWER]"
+        ]
+    },
+    "f9c419c21ee8451c88e6eebfba064b25": {
+        "original_question": "what is the ratio of perfomance shares as a percent of the total number of granted shares?",
+        "decomposed_questions": [
+            "what is the ratio of perfomance shares as a percent of the total number of granted shares?"
+        ]
+    },
+    "941f09ad96cb481ea8d5a20d19bee855": {
+        "original_question": "what is the growing rate of common equity tier 1 capital in the year with the most standardized approach?",
+        "decomposed_questions": [
+            "what is the growing rate of common equity tier 1 capital in the year with the most standardized approach?"
+        ]
+    },
+    "c2d5c593382e4567a8661f2225c61fa6": {
+        "original_question": "what's the sum of trading account liabilities without those trading account liabilities smaller than 15000, in 2010? (in million)",
+        "decomposed_questions": [
+            "account liabilities without those trading account liabilities",
+            "what's the sum of trading [ANSWER] smaller than 15000, in 2010? (in million)"
+        ]
+    },
+    "a589ba2c74f2425aaf44ee95ad522a79": {
+        "original_question": "what is the sum of income from continuing operations for as reported in 2006? (in million)",
+        "decomposed_questions": [
+            "what is the sum of income from continuing operations for as reported in 2006? (in million)"
+        ]
+    },
+    "41fadab970604096b14de6e6110fadc6": {
+        "original_question": "what is the growth rate in revenue related technology and risk management from 2015 to 2016?",
+        "decomposed_questions": [
+            "growth rate in revenue related technology and risk management",
+            "what is the [ANSWER] from 2015 to 2016?"
+        ]
+    },
+    "fd481d3cd06e471b9fc65d02c1e12e7d": {
+        "original_question": "what is the annual impact on pretax net income relating the schip purchased contract rights?",
+        "decomposed_questions": [
+            "what is the annual impact on pretax net income relating the schip purchased contract rights?"
+        ]
+    },
+    "97d5ffdb33c54c94abbfcb31cc6f0360": {
+        "original_question": "what's the 20 % of total elements for carrying amount of total in 2009? (in million)",
+        "decomposed_questions": [
+            "what's the 20 % of total elements for carrying amount of total in 2009? (in million)"
+        ]
+    },
+    "fa1b6c9425844fd7a6a496b25bf46654": {
+        "original_question": "what was the average value of global syndicated loans, global long-term debt, global equity and equity-related in 2004?",
+        "decomposed_questions": [
+            "the average value of global syndicated loans, global long-term debt, global equity",
+            "what was [ANSWER] and equity-related in 2004?"
+        ]
+    },
+    "8545b11b57a04ef88debcde4023d2b9c": {
+        "original_question": "considering the year 2013 , what was the percentual increase in the actual return on assets compared with the expected return?",
+        "decomposed_questions": [
+            "the year 2013 , what was the percentual increase in which actual return on assets",
+            "considering [ANSWER] compared with the expected return?"
+        ]
+    },
+    "113f7cabb50d4de4a79e8daf35873c5c": {
+        "original_question": "in the year with largest amount of pension fundings, what's the sum of commitment type?",
+        "decomposed_questions": [
+            "in the year with largest amount of pension fundings, what's the sum of commitment type?"
+        ]
+    },
+    "e3a82a556bfc4beda1b4ad44a6872d64": {
+        "original_question": "in the year with largest amount of total loans and leases in table1, what's the sum of total assets in table 1? (in millions)",
+        "decomposed_questions": [
+            "in the year with largest amount of total loans and leases in table1, what's the sum of total assets in table 1? (in millions)"
+        ]
+    },
+    "3dbe2f3e6a4e4503bc8f3f6d0edff6b7": {
+        "original_question": "if fixed income of active develops with the same increasing rate in2016, what will it reach in 2017? (in million)",
+        "decomposed_questions": [
+            "if fixed income of active develops with which same increasing rate",
+            "[ANSWER] in2016, what will it reach in 2017? (in million)"
+        ]
+    },
+    "4c7c479092d9477dbfe9f97d7b8f2506": {
+        "original_question": "what is the average value of assurant solutions in 2015 and cash (paid) received in 2005 for gross claims liability ?",
+        "decomposed_questions": [
+            "what is the average value of assurant solutions in 2015 and cash (paid) received in 2005 for gross claims liability ?"
+        ]
+    },
+    "7249ee9bfc254252b3580e1660726136": {
+        "original_question": "what's the total amount of bermuda of at december 31, 2017 case reserves, insurance of at december 31, 2016 case reserves, and international of at december 31, 2016 total reserves ?",
+        "decomposed_questions": [
+            "what's the total amount of bermuda of at december 31, 2017 case reserves, insurance of at december 31, 2016 case reserves, and international of at december 31, 2016 total reserves ?"
+        ]
+    },
+    "db16ff813fc3422f90fab62e565c31e1": {
+        "original_question": "what's the total amount of income tax expense in 2016? (in dollars in millions)",
+        "decomposed_questions": [
+            "what's the total amount of income tax expense in 2016? (in dollars in millions)"
+        ]
+    },
+    "0659207729464aaab723a42e3c6f5c02": {
+        "original_question": "what was the average of the risk-weighted in the years where total capital is positive? (in million)",
+        "decomposed_questions": [
+            "what was the average of the risk-weighted in the years where total capital is positive? (in million)"
+        ]
+    },
+    "6aa9d84c31cf42fda5c1ca840c33a0cb": {
+        "original_question": "how many other operations and maintenance exceed the average of other operations and maintenance in 2018?",
+        "decomposed_questions": [
+            "which average of other operations and maintenance",
+            "how many other operations and maintenance exceed [ANSWER] in 2018?"
+        ]
+    },
+    "16a788b1e4fa47078b1c8b6b8bbfc027": {
+        "original_question": "what was the average revenue from discontinued operations in 2013 and 2011 , in millions?",
+        "decomposed_questions": [
+            "which average revenue from discontinued operations in 2013 and 2011",
+            "what was  [ANSWER]  in millions?"
+        ]
+    },
+    "effbacfbd55842658fd9993d6048bda1": {
+        "original_question": "what is the ratio of all elements for total consumer recoveries that are range of 200 and 500 to the sum of elements, in 2016?",
+        "decomposed_questions": [
+            "which ratio of all elements for total consumer recoveries",
+            "what is  [ANSWER]  are range of 200 and 500 to the sum of elements, in 2016?"
+        ]
+    },
+    "199593113a5447258409a07c8380542a": {
+        "original_question": "considering the class a common stocks , what is the percentage's increase of the number issued to participating employees in relation non-executive directors amidst 2016 and 2017?",
+        "decomposed_questions": [
+            "a common stocks , what is the percentage's increase of the number issued to participating employees",
+            "considering the class [ANSWER] in relation non-executive directors amidst 2016 and 2017?"
+        ]
+    },
+    "69d731b8b99741abb2289040eb986421": {
+        "original_question": "what's the 20 % of total equity securities for level 1 of u.s. defined benefit pension plans in 2011? (in million)",
+        "decomposed_questions": [
+            "what's the 20 % of total equity securities for level 1 of u.s. defined benefit pension plans in 2011? (in million)"
+        ]
+    },
+    "99498665b07141d5b100ed39a86551cf": {
+        "original_question": "how much of profit before taxes is there in total (in 2017) without u.s. tax reform impact and gain on sale of equity investment? (in million)",
+        "decomposed_questions": [
+            "profit before taxes is there in total (in 2017) without u.s. tax reform",
+            "how much of [ANSWER] impact and gain on sale of equity investment? (in million)"
+        ]
+    },
+    "852dd9d99eeb4454916af03facab8333": {
+        "original_question": "in terms of carrying value,how much of liabilities is there in total in 2007 without deposits and other borrowings?",
+        "decomposed_questions": [
+            "carrying value,how much of liabilities is there in total in 2007",
+            "in terms of [ANSWER] without deposits and other borrowings?"
+        ]
+    },
+    "0027ab14645143c4b83807dd7f645399": {
+        "original_question": "as of december 31 , 2015 , what was the maximum premium on the dp&l preferred stock?",
+        "decomposed_questions": [
+            "as of december 31 , 2015 , what was the maximum premium on the dp&l preferred stock?"
+        ]
+    },
+    "5389963381274bc7b715d8df532a6c89": {
+        "original_question": "what was the ratio of the company investment in fhlb stock of for 2013 to 2012",
+        "decomposed_questions": [
+            "what was the ratio of the company investment in fhlb stock of for 2013 to 2012"
+        ]
+    },
+    "9e369c4204434bbbae67051af6769ca2": {
+        "original_question": "what is the growing rate of limited partnerships and other alternative investments in the years with the least policy loans, at outstanding balance?",
+        "decomposed_questions": [
+            "the growing rate of limited partnerships and other alternative investments",
+            "what is [ANSWER] in the years with the least policy loans, at outstanding balance?"
+        ]
+    },
+    "775d368a3833478bab2c37b78e77415b": {
+        "original_question": "if segment net sales develops with the same growth rate in 2012, what will it reach in 2013? (in million)",
+        "decomposed_questions": [
+            "if segment net sales develops with which same growth rate",
+            "[ANSWER] in 2012, what will it reach in 2013? (in million)"
+        ]
+    },
+    "f6af4df731d44ef8a74ae72330da5db5": {
+        "original_question": "in the section with lowest amount of pan amfairfax, va 22031 for amount, what's the increasing rate of shoppers\u2019worldcharlottesville, va 22091-12 for amount?",
+        "decomposed_questions": [
+            "in the section with lowest amount of pan amfairfax, va 22031 for amount, what's the increasing rate of shoppers\u2019worldcharlottesville, va 22091-12 for amount?"
+        ]
+    },
+    "7029cccd4a4d4146b9ffe17de5d74475": {
+        "original_question": "what is the average increasing rate of money market funds between 2012 and 2013?",
+        "decomposed_questions": [
+            "what is the average increasing rate of money market funds between 2012 and 2013?"
+        ]
+    },
+    "9a79387c1bbd45499716ee44e803781b": {
+        "original_question": "in the year with largest amount of proceeds, what's the increasing rate of gross investment gains in fixed maturity securities ?",
+        "decomposed_questions": [
+            "in the year with largest amount of proceeds, what's the increasing rate of gross investment gains in fixed maturity securities ?"
+        ]
+    },
+    "ef1755ab29764e3ab736d485977b8ef6": {
+        "original_question": "in the year with largest amount of net credit losses, what's the amount of revenues, net of interest expense and total operating expenses? (in million)",
+        "decomposed_questions": [
+            "which year with largest amount of net credit losses, what's the amount of revenues, net of interest expense",
+            "in [ANSWER] and total operating expenses? (in million)"
+        ]
+    },
+    "d2e5d75593014b8b8ddc50875b4c443c": {
+        "original_question": "in december 2016 the nclc issued senior unsecured notes due december 2021 , what is the payment they will receive on december 2021?",
+        "decomposed_questions": [
+            "in december 2016 the nclc issued senior unsecured notes",
+            "[ANSWER] due december 2021 , what is the payment they will receive on december 2021?"
+        ]
+    },
+    "8c06ea3eea23453c9248ac471a6b093f": {
+        "original_question": "what was the average value of proceeds from sales of investments, proceeds from maturities of investments,proceeds from significant disposals in 2016 for citigroup consolidated? (in million)",
+        "decomposed_questions": [
+            "what was the average value of proceeds from sales of investments, proceeds from maturities of investments,proceeds from significant disposals in 2016 for citigroup consolidated? (in million)"
+        ]
+    },
+    "7003b2196bcb45f98137a76a647739fa": {
+        "original_question": "how many element continues to increase every year from 2008 to 2009 in loan losses?",
+        "decomposed_questions": [
+            "how many element continues to increase every year from 2008 to 2009 in loan losses?"
+        ]
+    },
+    "1bb16dc122f54a57a351492187315109": {
+        "original_question": "if hr solutions generated 25% ( 25 % ) of total revenues , what are the total revenue for aon in 2010 , ( in millions ) ?",
+        "decomposed_questions": [
+            "if hr solutions generated 25% ( 25 % ) of total revenues , what are the total revenue for aon in 2010 , ( in millions ) ?"
+        ]
+    },
+    "742fcf0d4b3441e8973358e3d341bc35": {
+        "original_question": "at december 31 , 2002 what was the ratio of the company unsecured debt to the secured debt outstanding",
+        "decomposed_questions": [
+            "which company unsecured debt to the secured debt",
+            "at december 31 , 2002 what was the ratio of [ANSWER] outstanding"
+        ]
+    },
+    "ef6b6fa0ca264e5991408405b4492275": {
+        "original_question": "what will premiums reach in 2012 if it continues to grow at its current rate? (in million)",
+        "decomposed_questions": [
+            "what will premiums reach in 2012 if it continues to grow at its current rate? (in million)"
+        ]
+    },
+    "d1b414c8ce444b11832ac8e6c73f0927": {
+        "original_question": "in which section is net interest income smaller than total revenue, net of interest expense in 2016 ??",
+        "decomposed_questions": [
+            "interest income smaller than total revenue, net of interest expense in 2016",
+            "in which section is net [ANSWER] ??"
+        ]
+    },
+    "957ef731274e4404b16caada9e4e0652": {
+        "original_question": "what's the total amount of defined benefit plans excluding those negative ones in 2015?",
+        "decomposed_questions": [
+            "what's the total amount of defined benefit plans excluding those negative ones in 2015?"
+        ]
+    },
+    "febc1f364f8c472098009f237ea2bc55": {
+        "original_question": "what was the total amount of the noninterest expense in the years where net occupancy is greater than 18000? (in thousand)",
+        "decomposed_questions": [
+            "which noninterest expense in the years where net occupancy is greater than 18000? (in thousand)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "e2e5b860eb464fefbf0122eed07843a3": {
+        "original_question": "what is the growing rate of equity securities, trading for carrying amount in the year with the most fixed maturities, available-for-sale ?",
+        "decomposed_questions": [
+            "which year with the most fixed maturities, available-for-sale",
+            "what is the growing rate of equity securities, trading for carrying amount in [ANSWER] ?"
+        ]
+    },
+    "11ecd4383b424d968ea5f205e9a78262": {
+        "original_question": "what is the percentage of all components of net periodic benefit cost that are positive to the total amount, in 2009 for qualified plan?",
+        "decomposed_questions": [
+            "components of net periodic benefit cost that are positive to the total amount, in 2009 for qualified",
+            "what is the percentage of all [ANSWER] plan?"
+        ]
+    },
+    "f8b8ec4bebe34fada4ae0dc766768c33": {
+        "original_question": "what's the sum of all elements that are greater than 10 in home equity?",
+        "decomposed_questions": [
+            "elements that are greater than 10 in",
+            "what's the sum of all [ANSWER] home equity?"
+        ]
+    },
+    "39ca332fc482425a94d9ad74b2adc119": {
+        "original_question": "what's the sum of the equity the securities in the level where u.s. small cap stocks is greater than 1? (in million)",
+        "decomposed_questions": [
+            "which equity the securities in the level where u.s. small cap stocks",
+            "what's the sum of [ANSWER] is greater than 1? (in million)"
+        ]
+    },
+    "7d7a0ea7c30247cb9f67eea9bdae6b98": {
+        "original_question": "what's the average of the total deferred tax liabilities in the years where long-term deferred income taxes is greater than 0? (in thousand)",
+        "decomposed_questions": [
+            "the total deferred tax liabilities in which years where long-term deferred income taxes",
+            "what's the average of [ANSWER] is greater than 0? (in thousand)"
+        ]
+    },
+    "aa892e55688940b0b09d982f225334a2": {
+        "original_question": "what's the sum of all components of net periodic benefit cost that are positive in 2009 for qualified plan? (in million)",
+        "decomposed_questions": [
+            "components of net periodic benefit cost that are positive in 2009",
+            "what's the sum of all [ANSWER] for qualified plan? (in million)"
+        ]
+    },
+    "f8cc9e2a83324990999c3b2e982e69c7": {
+        "original_question": "what's the sum of all qualifying accounting hedges-2 that are positive in 2010 for gross derivative assets? (in billion)",
+        "decomposed_questions": [
+            "which sum of all qualifying accounting hedges-2 that are positive in 2010",
+            "what's [ANSWER] for gross derivative assets? (in billion)"
+        ]
+    },
+    "3255b68de01b45a096537090bf380742": {
+        "original_question": "what is the average growth rate of total trading volume between 2013 and 2014?",
+        "decomposed_questions": [
+            "what is the average growth rate of total trading volume between 2013 and 2014?"
+        ]
+    },
+    "03c3ab3e38554d3395a986735f2988b9": {
+        "original_question": "which year is total marketing, promotion, rewards and card member services and other the lowest?",
+        "decomposed_questions": [
+            "which year is total marketing, promotion, rewards and card member services and other the lowest?"
+        ]
+    },
+    "f662fa5993404a06bc1b6a47b5bd05a0": {
+        "original_question": "what is the mathematical range of deferred acquisition payments from 2018-2022 , in millions?",
+        "decomposed_questions": [
+            "what is the mathematical range of deferred acquisition payments from 2018-2022 , in millions?"
+        ]
+    },
+    "0a6a16942e35405d9cf0ab6035f8aec8": {
+        "original_question": "what is the ratio for unallocated items to the other for selling, general and administrative expenses. in 2016?",
+        "decomposed_questions": [
+            "what is the ratio for unallocated items to the other for selling, general and administrative expenses. in 2016?"
+        ]
+    },
+    "4dcfac0c84e145c4b58f9de254397d0e": {
+        "original_question": "what's the sum of all additional paid-in capita that are positive in 2007? (in thousand)",
+        "decomposed_questions": [
+            "capita that are positive in 2007? (in thousand)",
+            "what's the sum of all additional paid-in [ANSWER]"
+        ]
+    },
+    "c5d0afdfd7e4475582882374c9bfc940": {
+        "original_question": "what was the average of the fixed-rate in the years where total commercial banking is positive? (in million)",
+        "decomposed_questions": [
+            "what was the average of the fixed-rate in the years where total commercial banking is positive? (in million)"
+        ]
+    },
+    "c8d4b630ec384aeaa505a74196a67fcd": {
+        "original_question": "what was the value of the gross margin in the year where sales volume by product tons (000s) is positive? (in million)",
+        "decomposed_questions": [
+            "which year where sales volume by product tons (000s)",
+            "what was the value of the gross margin in [ANSWER] is positive? (in million)"
+        ]
+    },
+    "09094899c4c947e4b53a2162ed3e9d6d": {
+        "original_question": "as december 312011 what was the amount of the provision for impairment in billion",
+        "decomposed_questions": [
+            "as december 312011 what was the amount of the provision for impairment in billion"
+        ]
+    },
+    "8bc56cc247004f3ca9fe6a226d639924": {
+        "original_question": "what's the total amount of the revenues, net of interest expense in the years where revenues, net of interest expense greater than 80000? (in million)",
+        "decomposed_questions": [
+            "the revenues, net of interest expense in the years where revenues, net of interest expense",
+            "what's the total amount of [ANSWER] greater than 80000? (in million)"
+        ]
+    },
+    "eb21545e221e4f5dbdb56a20a71cb308": {
+        "original_question": "what do all liabilities sum up in 2011, excluding property, plant and equipment and inventories?",
+        "decomposed_questions": [
+            "what do all liabilities sum up in 2011, excluding property, plant and equipment and inventories?"
+        ]
+    },
+    "f5ad94857a8d407d81226f916215116b": {
+        "original_question": "what's the total amount of the curtailments in the years where settlements is greater than 30? (in million)",
+        "decomposed_questions": [
+            "what's the total amount of the curtailments in the years where settlements is greater than 30? (in million)"
+        ]
+    },
+    "0b3e7f1ad8f1404aaccd3bacb440c526": {
+        "original_question": "what was the average of the efficiency for selectedratios in the years where assets (b) is positive for balancesheethighlights? (in million)",
+        "decomposed_questions": [
+            "what was the average of the efficiency for selectedratios in the years where assets (b) is positive for balancesheethighlights? (in million)"
+        ]
+    },
+    "d2b1de436a5246eca0068adf74181771": {
+        "original_question": "if goodwill develops with the same increasing rate in2016, what will it reach in 2017? (in million)",
+        "decomposed_questions": [
+            "if goodwill develops with which same increasing rate",
+            "[ANSWER] in2016, what will it reach in 2017? (in million)"
+        ]
+    },
+    "ca46fd2c0bab4c3a97949f7db9bee58a": {
+        "original_question": "what is the difference between north america and emea 's highest total change (u.s. gaap)? (in million)",
+        "decomposed_questions": [
+            "what is the difference between north america and emea 's highest total change (u.s. gaap)? (in million)"
+        ]
+    },
+    "6c0c874d6b5e45f0ba48a447cd8d7234": {
+        "original_question": "what is the sum of the second quarter 2012 in the sections where six months is positive? (in million)",
+        "decomposed_questions": [
+            "what is the sum of the second quarter 2012 in the sections where six months is positive? (in million)"
+        ]
+    },
+    "6440b6efc8ff4765bf7185a0523a87cc": {
+        "original_question": "what is the total value of premium ,total revenue ,policy benefits and required interest on net reserves in life?",
+        "decomposed_questions": [
+            "premium ,total revenue ,policy benefits and required interest on net reserves in",
+            "what is the total value of [ANSWER] life?"
+        ]
+    },
+    "f6e2f94f5f2841a993eaed5577bdece2": {
+        "original_question": "in the year with lowest amount of cecony full service customers, what's the increasing rate of delivery service for retail choice customers?",
+        "decomposed_questions": [
+            "which year with lowest amount of cecony",
+            "in [ANSWER] full service customers, what's the increasing rate of delivery service for retail choice customers?"
+        ]
+    },
+    "c13fa72b574148919afc23e78f714d6d": {
+        "original_question": "in billions for the years december 2013 and december 2012 , what was total commitments to invest in funds managed by the firm?",
+        "decomposed_questions": [
+            "in billions for the years december 2013 and december 2012 , what was total commitments to invest in funds managed by the firm?"
+        ]
+    },
+    "11c38af333904c7cb9c8244e3fb224aa": {
+        "original_question": "what was the total amount of the total commercial lending in the years where total commercial lending greater than 0? (in million)",
+        "decomposed_questions": [
+            "the total commercial lending in which years where total commercial lending greater than 0? (in million)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "0f40b33aa02a4bc5972d587152f7b25f": {
+        "original_question": "how many u.s. plans exceed the average of u.s. plans in 2016 for pension?",
+        "decomposed_questions": [
+            "how many u.s. plans exceed the average of u.s. plans in 2016 for pension?"
+        ]
+    },
+    "3748a66728034d1cb2d9dfd9425e89a0": {
+        "original_question": "what is the sum of international consumer and network services of 2016, u.s. consumer services of 2017, and card member receivables of 2016 ?",
+        "decomposed_questions": [
+            "what is the sum of international consumer and network services of 2016, u.s. consumer services of 2017, and card member receivables of 2016 ?"
+        ]
+    },
+    "b462635eb4774a5ca9992d8c28e1d8b3": {
+        "original_question": "what is the growth rate in based rent for hudson yards , new york facility in the third period?",
+        "decomposed_questions": [
+            "what is the growth rate in based rent for hudson yards , new york facility in the third period?"
+        ]
+    },
+    "041bd4167fc84deeb6ff4a6e468dc4f1": {
+        "original_question": "what was the average of full service for gas delivered($ in millions)in 2012, 2013, and 2014 ? (in million)",
+        "decomposed_questions": [
+            "what was the average of full service for gas delivered($ in millions)in 2012, 2013, and 2014 ? (in million)"
+        ]
+    },
+    "7c12ed79d7e8412a9739f8cc2a63ac58": {
+        "original_question": "which year is postretirement's total net periodic benefit cost of net periodic benefit cost the lowest?",
+        "decomposed_questions": [
+            "benefit cost of net periodic benefit cost",
+            "which year is postretirement's total net periodic [ANSWER] the lowest?"
+        ]
+    },
+    "8b952dba2f3740cf8636e5cd3a81309f": {
+        "original_question": "what will u.s. high-grade be like in 2005 if it develops with the same increasing rate as current? (in thousand)",
+        "decomposed_questions": [
+            "it develops with which same increasing rate",
+            "what will u.s. high-grade be like in 2005 if [ANSWER] as current? (in thousand)"
+        ]
+    },
+    "bff49b059896424d896271de79cfc792": {
+        "original_question": "what was the total amount of the interest expense to affiliates in the section where the expenses on support services is greater than 600 million? (in million)",
+        "decomposed_questions": [
+            "the interest expense to affiliates in which section where the expenses on support services",
+            "what was the total amount of [ANSWER] is greater than 600 million? (in million)"
+        ]
+    },
+    "123739b8e88a457cac5414dbbe382d4e": {
+        "original_question": "what's the average of the property and equipment, net in the years where basic weighted average common shares outstanding greater than 395000 ? (in thousand)",
+        "decomposed_questions": [
+            "which property and equipment, net in the years where basic weighted average common shares outstanding greater than 395000",
+            "what's the average of [ANSWER] ? (in thousand)"
+        ]
+    },
+    "1f678f7e298943a59b704bb2f562327a": {
+        "original_question": "what is the average amount of operating activities of year ended december 31, 2007, and employee separations of other ?",
+        "decomposed_questions": [
+            "operating activities of year ended december 31, 2007, and employee separations of other",
+            "what is the average amount of [ANSWER] ?"
+        ]
+    },
+    "0cfeb0f37f584a3fb6617574b674ee67": {
+        "original_question": "what do all residential mortgage-backed securities sum up without those residential mortgage-backed securities smaller than 20,000, in 2008? (in million)",
+        "decomposed_questions": [
+            "what do all residential mortgage-backed securities sum up without those residential mortgage-backed securities smaller than 20,000, in 2008? (in million)"
+        ]
+    },
+    "3ddd52dafa8641b4a7b583f241fe16ce": {
+        "original_question": "what's the total amount of the elements in the years where corporate is greater than 70000?",
+        "decomposed_questions": [
+            "the elements in which years where corporate is",
+            "what's the total amount of [ANSWER] greater than 70000?"
+        ]
+    },
+    "3cb9250ec4c144ad9c2d9442c8bedb2d": {
+        "original_question": "what's the total amount of qualifying accounting hedges-2 in the range of 0 and 20 in 2010 for gross derivative assets? (in billion)",
+        "decomposed_questions": [
+            "accounting hedges-2 in the range of 0 and 20 in 2010",
+            "what's the total amount of qualifying [ANSWER] for gross derivative assets? (in billion)"
+        ]
+    },
+    "af20ab8bd3c140ce90eb0d3e92aaaeb7": {
+        "original_question": "what was the average of net income (loss) for basic earnings (loss) per share in 2008, 2007, and 2006 ?",
+        "decomposed_questions": [
+            "what was the average of net income (loss) for basic earnings (loss) per share in 2008, 2007, and 2006 ?"
+        ]
+    },
+    "598b19e95b3e47e686d994b9e1dba3d6": {
+        "original_question": "what's the average of business separation costs,business restructuring and cost reduction actions and pension settlement loss in terms of operating income in 2016?",
+        "decomposed_questions": [
+            "business separation costs,business restructuring and cost reduction actions and pension settlement loss",
+            "what's the average of [ANSWER] in terms of operating income in 2016?"
+        ]
+    },
+    "202486a7153344d697aaaa61cba0a553": {
+        "original_question": "what is the total value of granted exercised - canceled and expired in 2006 for options for shares?",
+        "decomposed_questions": [
+            "granted exercised - canceled and expired in 2006",
+            "what is the total value of [ANSWER] for options for shares?"
+        ]
+    },
+    "576ed6f1dbd34a08ac405f5f492c3d71": {
+        "original_question": "how much money can the company deduct on the income tax in the future after this acquisition?",
+        "decomposed_questions": [
+            "which company deduct on the income tax in the future",
+            "how much money can [ANSWER] after this acquisition?"
+        ]
+    },
+    "9921e1041a444541a646fe8b24f0973b": {
+        "original_question": "what's the total amount of the deferred tax liability in the section where entergy new orleans is greater than 20? (in thousand)",
+        "decomposed_questions": [
+            "the deferred tax liability in which section where entergy new orleans",
+            "what's the total amount of [ANSWER] is greater than 20? (in thousand)"
+        ]
+    },
+    "6e0b921bdc8b4eef9795545de529ccd8": {
+        "original_question": "what was the total amount of balance% in the range of 0 and 200000 in 2009 ? (in thousand)",
+        "decomposed_questions": [
+            "what was the total amount of balance% in the range of 0 and 200000 in 2009 ? (in thousand)"
+        ]
+    },
+    "022e22592e354d7c9c9489e9a91ff4e6": {
+        "original_question": "what percent did the balance increase from the beginning of 2016 to the end of 2017?",
+        "decomposed_questions": [
+            "which balance increase from the beginning of 2016",
+            "what percent did [ANSWER] to the end of 2017?"
+        ]
+    },
+    "ea0c042f8bc747fca8b8d7143c21254c": {
+        "original_question": "what is the ratio of all year ended october 31, that are in the range of 0 and 5 in 2017?",
+        "decomposed_questions": [
+            "year ended october 31, that are in the range of 0 and 5",
+            "what is the ratio of all [ANSWER] in 2017?"
+        ]
+    },
+    "4b9a715a89124b1f8dd47eca0cfcdd3e": {
+        "original_question": "what is the sum of corporateand in the range of 6000 in 2015? (in million)",
+        "decomposed_questions": [
+            "what is the sum of corporateand in the range of 6000 in 2015? (in million)"
+        ]
+    },
+    "0fec5032cbae414da9b59dd11361444c": {
+        "original_question": "if total forward hedged revenues develops with the same growing rate in 2019, what will it reach in 2020? (in million)",
+        "decomposed_questions": [
+            "if total forward hedged revenues develops with which same growing rate",
+            "[ANSWER] in 2019, what will it reach in 2020? (in million)"
+        ]
+    },
+    "0ab6a6eab2394b6f8fd4f7aee7446435": {
+        "original_question": "in the section with largest amount of fixed maturities, what's the sum of policy loans and swaps ? (in million)",
+        "decomposed_questions": [
+            "in the section with largest amount of fixed maturities, what's the sum of policy loans and swaps ? (in million)"
+        ]
+    },
+    "a76ffcd4626241179ae83d59841a141a": {
+        "original_question": "what was the total amount of foreign govt./govt. agencies, municipal, rmbs and u.s. treasuries for fair of 12 months or more ?",
+        "decomposed_questions": [
+            "foreign govt./govt. agencies, municipal, rmbs and u.s. treasuries",
+            "what was the total amount of [ANSWER] for fair of 12 months or more ?"
+        ]
+    },
+    "42b990cff2fe4105b24d8c036636197f": {
+        "original_question": "in the year with the mostgross written premiums what is the growth rate of premiums earned?",
+        "decomposed_questions": [
+            "which year with the mostgross written premiums",
+            "in [ANSWER] what is the growth rate of premiums earned?"
+        ]
+    },
+    "4a490476da174f859b54f4db4ac6f022": {
+        "original_question": "which year ended december 31 is the amount of gross investment income before investment expenses the most?",
+        "decomposed_questions": [
+            "which year ended december 31 is the amount of gross investment income before investment expenses the most?"
+        ]
+    },
+    "aad54f148a144ed28f0cffc0a0331fe0": {
+        "original_question": "what is the growing rate of residential real estate of recoveries in the year with the least commercial real estate of gross charge-offs?",
+        "decomposed_questions": [
+            "the growing rate of residential real estate",
+            "what is [ANSWER] of recoveries in the year with the least commercial real estate of gross charge-offs?"
+        ]
+    },
+    "e18d7809a0d2433f86b35c2ad2e4bbb4": {
+        "original_question": "in the year with largest amount of long-term deposits, what's the sum of asset-backed secured financings and commercial paper and other short-term borrowings for fair value? (in million)",
+        "decomposed_questions": [
+            "in the year with largest amount of long-term deposits, what's the sum of asset-backed secured financings and commercial paper and other short-term borrowings for fair value? (in million)"
+        ]
+    },
+    "51e770acb34b4fe5aab2291cea15b86a": {
+        "original_question": "what do all trading securities debt sum up, excluding those negative ones in 2009 for trading securities debt? (in million)",
+        "decomposed_questions": [
+            "what do all trading securities debt sum up, excluding those negative ones in 2009 for trading securities debt? (in million)"
+        ]
+    },
+    "fc4c8c19d1a140aa93e5171f4e744ffb": {
+        "original_question": "what is the average growth rate of other cost of management of cost of operations between 2008 and 2009 for year ended december 31,?",
+        "decomposed_questions": [
+            "growth rate of other cost of management of cost of operations between 2008 and 2009",
+            "what is the average [ANSWER] for year ended december 31,?"
+        ]
+    },
+    "e68d0c563caf484287f0e69577329a4c": {
+        "original_question": "what will depreciation and amortization reach in 2013 if it continues to grow at its current rate? (in thousand)",
+        "decomposed_questions": [
+            "it continues to grow at its current rate? (in thousand)",
+            "what will depreciation and amortization reach in 2013 if [ANSWER]"
+        ]
+    },
+    "973a2f2eb67e4ae2bf341877b464ca1f": {
+        "original_question": "what is the proportion of all elements that are greater than 5000 to the total amount of elements in total contractual obligations?",
+        "decomposed_questions": [
+            "what is the proportion of all elements that are greater than 5000 to the total amount of elements in total contractual obligations?"
+        ]
+    },
+    "f1b6c6cb41164568b24c332799192b11": {
+        "original_question": "as of dec 31 , 2009 , what was the average loan commitment for the company for all of its total loan commitments , in millions>",
+        "decomposed_questions": [
+            "which company for all of its total loan commitments",
+            "as of dec 31 , 2009 , what was the average loan commitment for  [ANSWER]  in millions>"
+        ]
+    },
+    "f31a8210be714de09f02413fbf3fb45f": {
+        "original_question": "in which year is u.s. dollars sold for pounds sterling for contract amount greater than 1?",
+        "decomposed_questions": [
+            "in which year is u.s. dollars sold for pounds sterling for contract amount greater than 1?"
+        ]
+    },
+    "c1cdf0f80f3d4416a969c836094f8532": {
+        "original_question": "what was the ratio of the increase net sales to the increased volume of sales for the f-35 production contracts in 2015\\\\n\\\\n",
+        "decomposed_questions": [
+            "what was the ratio of the increase net sales to the increased volume of sales for the f-35 production contracts in 2015\\\\n\\\\n"
+        ]
+    },
+    "1c4daca377fc4a32a71e4f82da7d3197": {
+        "original_question": "what's the average of group retirement products* and individual fixed annuities and individual fixed annuities in 2010? (in million)",
+        "decomposed_questions": [
+            "what's the average of group retirement products* and individual fixed annuities and individual fixed annuities in 2010? (in million)"
+        ]
+    },
+    "dddf3b0b4cd148139854279b0df09c95": {
+        "original_question": "what was the total amount of the global equity and equity-related in the years where global long-term debt greater than 7 for market share ?",
+        "decomposed_questions": [
+            "the global equity and equity-related in the years where global long-term debt greater than 7 for market share",
+            "what was the total amount of [ANSWER] ?"
+        ]
+    },
+    "5613cff965ad40fbacdd04427dd378a5": {
+        "original_question": "how many kinds of period is the value of customer deposits more than the 50% of the total value of customer deposits?",
+        "decomposed_questions": [
+            "how many kinds of period is the value of customer deposits more than the 50% of the total value of customer deposits?"
+        ]
+    },
+    "a7d2dd8d6ce8494eb3e272542d4d5477": {
+        "original_question": "what do all sales volumes sum up, excluding those negative ones in 2009 ?",
+        "decomposed_questions": [
+            "what do all sales volumes sum up, excluding those negative ones in 2009 ?"
+        ]
+    },
+    "be6938e791b04c8fbb35f7b650fa8432": {
+        "original_question": "what's the 25% of the value of net plan assets totally as of december 31, 2017? (in million)",
+        "decomposed_questions": [
+            "what's the 25% of the value of net plan assets totally as of december 31, 2017? (in million)"
+        ]
+    },
+    "97ffca99d5714f1cae211ceac15264a2": {
+        "original_question": "what is the sum of the held-for-sale in the sections where held-for-investment is positive? (in million)",
+        "decomposed_questions": [
+            "which held-for-sale in the sections where held-for-investment",
+            "what is the sum of [ANSWER] is positive? (in million)"
+        ]
+    },
+    "0141e3e049a24db2a5c312fa84ad6201": {
+        "original_question": "according to the above listed holders of common stock , what was the market share of mktx common stock on march 8 , 2006?",
+        "decomposed_questions": [
+            "the above listed holders of common stock",
+            "according to  [ANSWER]  what was the market share of mktx common stock on march 8 , 2006?"
+        ]
+    },
+    "b448e40e3c7b429f8ace7fe106e8e196": {
+        "original_question": "what was the average of the net current-period other comprehensive income in the years where other comprehensive income before reclassifications for changes related to cash flow derivative hedges is positive?",
+        "decomposed_questions": [
+            "the net current-period other comprehensive income in the years where other comprehensive income before reclassifications for changes related to cash flow derivative hedges",
+            "what was the average of [ANSWER] is positive?"
+        ]
+    },
+    "1a8f75aa252b4b3297e25b5c399852ea": {
+        "original_question": "what is the percentage of con edison's current fair value of derivative assets of gross amounts of recognized assets/ (liabilities) in relation to the total in 2014?",
+        "decomposed_questions": [
+            "assets/ (liabilities) in relation to the total",
+            "what is the percentage of con edison's current fair value of derivative assets of gross amounts of recognized [ANSWER] in 2014?"
+        ]
+    },
+    "4cb08652866945d08b401b8fb85b8ad4": {
+        "original_question": "what's the total amount of the total revenues in the years where other expense is greater than 30000? (in thousand)",
+        "decomposed_questions": [
+            "what's the total amount of the total revenues in the years where other expense is greater than 30000? (in thousand)"
+        ]
+    },
+    "4f164feded3a46a28b1afda12a4411f2": {
+        "original_question": "in the year with largest amount of institutional of non-u.s. , what's the sum of loans and lease",
+        "decomposed_questions": [
+            "in the year with largest amount of institutional of non-u.s. , what's the sum of loans and lease"
+        ]
+    },
+    "ed8e62eccc794e549acf8086bff03ea9": {
+        "original_question": "by what percentage did the amount of claims as of sept 30 , 2007 decrease to equal the combined claims september 30 of 2009-2012?",
+        "decomposed_questions": [
+            "which amount of claims as of sept 30 , 2007",
+            "by what percentage did [ANSWER] decrease to equal the combined claims september 30 of 2009-2012?"
+        ]
+    },
+    "f1cf88babc7d4f61a58de77f429da3f8": {
+        "original_question": "in the year with largest amount of commercial of gross recoveries, what's the increasing rate of total gross recoveries?",
+        "decomposed_questions": [
+            "which year with largest amount of commercial of",
+            "in [ANSWER] gross recoveries, what's the increasing rate of total gross recoveries?"
+        ]
+    },
+    "b6ce77c015fa412085012b054696bffa": {
+        "original_question": "without level 1 and level 2, how much of assets is there in total in 2017?",
+        "decomposed_questions": [
+            "without level 1 and level 2, how much of assets is there in total in 2017?"
+        ]
+    },
+    "c12380b3eb184cd784dff3ce4d1715c2": {
+        "original_question": "in the year with largest amount of company, what's the sum of bank ? (in thousand)",
+        "decomposed_questions": [
+            "in the year with largest amount of company, what's the sum of bank ? (in thousand)"
+        ]
+    },
+    "5b751365d74a42548d2cbf9e7a3c206d": {
+        "original_question": "how much square feet could the company use to build properies ? ( 1 acre = 43560 square feet )",
+        "decomposed_questions": [
+            "how much square feet could the company use to build properies ? ( 1 acre = 43560 square feet )"
+        ]
+    },
+    "2585c8b15aa9434aa1953dcb59be17e3": {
+        "original_question": "what is the percentage growth in net cash provided by operating activities from 2009 to 2010?",
+        "decomposed_questions": [
+            "what is the percentage growth in net cash provided by operating activities from 2009 to 2010?"
+        ]
+    },
+    "2e4f88ad60e94a48a3017db1fa184e9c": {
+        "original_question": "during 2016 what was the average price paid for the shares repurchased by the company?",
+        "decomposed_questions": [
+            "during 2016 what was the average price paid for the shares repurchased by the company?"
+        ]
+    },
+    "d308e16ace3449d19d057d677b900f50": {
+        "original_question": "what is the sum of expense of separation costs in restructuring reserves as of january 1, 2007 and revenue (a) in 2016? (in million)",
+        "decomposed_questions": [
+            "what is the sum of expense of separation costs in restructuring reserves as of january 1, 2007 and revenue (a) in 2016? (in million)"
+        ]
+    },
+    "920438625ed84ed1b00d2c323ae43621": {
+        "original_question": "in the year with largest amount of net investment income in table 1, what's the sum of revenues in table 1? (in millions)",
+        "decomposed_questions": [
+            "in the year with largest amount of net investment income in table 1, what's the sum of revenues in table 1? (in millions)"
+        ]
+    },
+    "5dad12f9166f409faf02bcf2ba2eab4e": {
+        "original_question": "in the year with lowest amount of total segment the lowest for total incurred, what's the increasing rate of catastrophes for total incurred?",
+        "decomposed_questions": [
+            "which year with lowest amount of total segment",
+            "in [ANSWER] the lowest for total incurred, what's the increasing rate of catastrophes for total incurred?"
+        ]
+    },
+    "61684e3f70ae4816b8c121726ac1ec89": {
+        "original_question": "how much in combined repurchase claims , in millions , were recorded in the first quarter of 2005 , 2006 , 2007 , 2008?",
+        "decomposed_questions": [
+            "claims , in millions , were recorded in the first quarter of 2005 , 2006 , 2007",
+            "how much in combined repurchase  [ANSWER]  2008?"
+        ]
+    },
+    "874bce2bb16d4cd99f0516d803afb56a": {
+        "original_question": "what's the average of structured notes and total long-term unsecured funding in 2016? (in million)",
+        "decomposed_questions": [
+            "what's the average of structured notes and total long-term unsecured funding in 2016? (in million)"
+        ]
+    },
+    "2702458cc0b0480ca4d21ed8940ab5f5": {
+        "original_question": "in 2009 what was the percent of the income tax benefit and the noncontrolling interests of the the company recognized non-cash impairment charges",
+        "decomposed_questions": [
+            "the income tax benefit and the noncontrolling interests of the which company",
+            "in 2009 what was the percent of [ANSWER] recognized non-cash impairment charges"
+        ]
+    },
+    "61b3dae36ceb4b30ab6960bb48742385": {
+        "original_question": "what's the total value of all elements that are smaller than 15000 in balance at december 31, 2007-1? (in million)",
+        "decomposed_questions": [
+            "elements that are smaller than 15000 in balance at december 31, 2007-1? (in million)",
+            "what's the total value of all [ANSWER]"
+        ]
+    },
+    "f46f940cf4ca4930944d9d653f1c1476": {
+        "original_question": "what was the average value of the home equity for allowance in the years where commercial for allowance is positive? (in million)",
+        "decomposed_questions": [
+            "which home equity for allowance in the years where commercial for allowance is positive? (in million)",
+            "what was the average value of [ANSWER]"
+        ]
+    },
+    "3ca437ad40074015bf09e97ce1e92f1a": {
+        "original_question": "what is the proportion of all march 31 of three months ended that are greater than 6000 to the total amount of march 31 of three months ended in 2005?",
+        "decomposed_questions": [
+            "which proportion of all march 31 of three months",
+            "what is [ANSWER] ended that are greater than 6000 to the total amount of march 31 of three months ended in 2005?"
+        ]
+    },
+    "8a058e7731cd4c0f936c6eef2400f5f5": {
+        "original_question": "does the value of assets (b) in 2014 greater than that in 2015 for balancesheethighlights?",
+        "decomposed_questions": [
+            "does the value of assets (b) in 2014 greater than that in 2015 for balancesheethighlights?"
+        ]
+    },
+    "0424fed0f39947f4b8a0db5e6e5be730": {
+        "original_question": "in the year with largest amount of collection: residential, what's the increasing rate of total collection of collection?",
+        "decomposed_questions": [
+            "in which year with largest amount of collection:",
+            "[ANSWER] residential, what's the increasing rate of total collection of collection?"
+        ]
+    },
+    "e5a3feacfac341bcb9cc99b74037ce18": {
+        "original_question": "what is the sum of the revenues in the years where net investment gains (losses) is positive? (in million)",
+        "decomposed_questions": [
+            "which years where net investment gains (losses) is positive? (in million)",
+            "what is the sum of the revenues in [ANSWER]"
+        ]
+    },
+    "9d8018febece4c9f91186dfbea343ceb": {
+        "original_question": "what was the total amount of nonaccrual loans in 2010 for as of september 30,? (in thousand)",
+        "decomposed_questions": [
+            "nonaccrual loans in 2010 for as of september 30,? (in thousand)",
+            "what was the total amount of [ANSWER]"
+        ]
+    },
+    "8b4c8d6df03544418b3d85c1930fb36e": {
+        "original_question": "what's the total amount of group retirement products of net investment income, cash at end of year of 2011, and group retirement products 2005 of total revenues ?",
+        "decomposed_questions": [
+            "the total amount of group retirement products of net investment income, cash at end of year of 2011, and group retirement products",
+            "what's [ANSWER] 2005 of total revenues ?"
+        ]
+    },
+    "46f847b98b48481aac7a2e70ce8705ec": {
+        "original_question": "what's the sum of all elements that are positive for auto & home? (in million)",
+        "decomposed_questions": [
+            "what's the sum of all elements that are positive for auto & home? (in million)"
+        ]
+    },
+    "3281a42d6d584aae9ea81a8ef0f0f155": {
+        "original_question": "what is the growing rate of average selling price per product ton in the years with the least granular urea?",
+        "decomposed_questions": [
+            "what is the growing rate of average selling price per product ton in the years with the least granular urea?"
+        ]
+    },
+    "80abf81ee8ea4687ba7988e650e8711b": {
+        "original_question": "in the year with the most registered investment companies, what is the growth rate of total plan assets, subject to leveling in level1\uff1f",
+        "decomposed_questions": [
+            "in the year with the most registered investment companies, what is the growth rate of total plan assets, subject to leveling in level1\uff1f"
+        ]
+    },
+    "f3de35e4c3d2474b863081baa0a76f6b": {
+        "original_question": "what was the ratio of the snap-on share repurchase in 2011 compared to 2010",
+        "decomposed_questions": [
+            "what was the ratio of the snap-on share repurchase in 2011 compared to 2010"
+        ]
+    },
+    "93e13c7b7c344e0a8978e65ccff0bba4": {
+        "original_question": "what is the sum of the tier 1 capital in the years where cet1 capital greater for basel iii standardized transitional is greater than 18300? (in million)",
+        "decomposed_questions": [
+            "which tier 1 capital in the years where cet1 capital greater for basel iii standardized transitional",
+            "what is the sum of [ANSWER] is greater than 18300? (in million)"
+        ]
+    },
+    "f27c2b47535347e7a9e64d445215bad4": {
+        "original_question": "in 2012 what was the ratio of the decline in the provision for commercial lending credit losses to the consumers provision",
+        "decomposed_questions": [
+            "which decline in the provision for commercial lending credit losses to the consumers provision",
+            "in 2012 what was the ratio of [ANSWER]"
+        ]
+    },
+    "c9c72ec704974d758d72b4c83d24e19d": {
+        "original_question": "what's the total amount of the total revenues in the years where net realized capital gains (losses) is greater than -716?",
+        "decomposed_questions": [
+            "the total revenues in which years where net realized capital gains (losses)",
+            "what's the total amount of [ANSWER] is greater than -716?"
+        ]
+    },
+    "df3e2ab5de794ae194e7725ae16f7f9b": {
+        "original_question": "what is the growing rate of hombuilding in the year with the most financial services?",
+        "decomposed_questions": [
+            "what is the growing rate of hombuilding in the year with the most financial services?"
+        ]
+    },
+    "189ada0d14774a4e841c5f39c726afde": {
+        "original_question": "what is the amount gap between fes and oe in terms of expenses on support services? (in million)",
+        "decomposed_questions": [
+            "oe in terms of expenses on support services? (in million)",
+            "what is the amount gap between fes and [ANSWER]"
+        ]
+    },
+    "ecd60c927df941cf8390f3f4e0ca429f": {
+        "original_question": "what's the sum of all significant other observable inputs (level 2) that are positive in 2011? (in million)",
+        "decomposed_questions": [
+            "what's the sum of all significant other observable inputs (level 2) that are positive in 2011? (in million)"
+        ]
+    },
+    "e0f9702f7b43471cb8a3b66fe632fa65": {
+        "original_question": "in the year with largest amount of gas delivered($ in millions), what's the sum of firm sales for gas delivered($ in millions)? (in million)",
+        "decomposed_questions": [
+            "which year with largest amount of gas delivered($ in millions), what's the sum of firm sales for gas",
+            "in [ANSWER] delivered($ in millions)? (in million)"
+        ]
+    },
+    "3966399e681148b38a39820fdc288339": {
+        "original_question": "what is the increasing rate of payments due by period for capital lease obligations between due by period 2017 and due by period 2018?",
+        "decomposed_questions": [
+            "which increasing rate of payments due by period for capital lease obligations",
+            "what is [ANSWER] between due by period 2017 and due by period 2018?"
+        ]
+    },
+    "3133b22f014c40dab954549fc43a0a67": {
+        "original_question": "what is the sum of the long-term debt (a) in the years where operating leases (b) is positive? (in million)",
+        "decomposed_questions": [
+            "the long-term debt (a) in which years where operating leases (b)",
+            "what is the sum of [ANSWER] is positive? (in million)"
+        ]
+    },
+    "e7de2fe945744e9581c0bf8dbc8355e1": {
+        "original_question": "what is the growing rate of other in table 0 in the year with the most industrial of rental expenses in table 1?",
+        "decomposed_questions": [
+            "which year with the most industrial of rental expenses",
+            "what is the growing rate of other in table 0 in [ANSWER] in table 1?"
+        ]
+    },
+    "ba669fcba2ac479bb6044250771cd7f7": {
+        "original_question": "as as the chart 3 shows,between financial services businesses and closed block business,what is the lowest amount for equity securities for year ended december 31, 2006? (in million)",
+        "decomposed_questions": [
+            "as as the chart 3 shows,between financial services businesses and closed block business,what is the lowest amount for equity securities for year ended december 31, 2006? (in million)"
+        ]
+    },
+    "206f926a34ba4903aec38fd952320bd2": {
+        "original_question": "in the year with lowest amount of other operating revenues in table 1, what's the increasing rate of total fair value of rsus vested in table 2?",
+        "decomposed_questions": [
+            "in the year with lowest amount of other operating revenues in table 1, what's the increasing rate of total fair value of rsus vested in table 2?"
+        ]
+    },
+    "ee655ae873404065bd9dc02d179d03b9": {
+        "original_question": "how much of the firm-sponsored qspes that hold asf framework loans are serviced by the firm?",
+        "decomposed_questions": [
+            "which firm-sponsored qspes that hold asf framework loans",
+            "how much of [ANSWER] are serviced by the firm?"
+        ]
+    },
+    "45d6a6d453524cc790eb34ae369432cf": {
+        "original_question": "how many kinds of writedowns are smaller than 0 in 2008 for fixed maturity securities?",
+        "decomposed_questions": [
+            "how many kinds of writedowns are smaller than 0 in 2008 for fixed maturity securities?"
+        ]
+    },
+    "9f19c5d4780c44e3af4565f034621509": {
+        "original_question": "what is the percentage of all elements that are positive to the total amount, for auto & home?",
+        "decomposed_questions": [
+            "what is the percentage of all elements that are positive to the total amount, for auto & home?"
+        ]
+    }
+}
