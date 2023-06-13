@@ -1,5 +1,7 @@
 # Applying Question Decomposition to Numerical Reasoning over Multi Hierarchical Data
 
+Research Report: [Applying Question Decomposition to Numerical Reasoning over Multi-hierarchical Data](https://github.com/iamsashank09/question-decomposition-multihiertt/blob/main/Question%20Decompositon%20for%20Numerical%20Reasoning%20QA.pdf)
+
 **Please follow the below instructions to run our code:**
 
 1) Download checkpoints from https://drive.google.com/drive/folders/1LPVGoWm1Tsm4Asjc6soeFI3sMTfsAz1_?usp=sharing and place in: 
